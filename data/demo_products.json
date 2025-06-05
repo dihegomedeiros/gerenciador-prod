@@ -1,0 +1,1170 @@
+[
+    {
+        "name": "Cerveja 600 ml",
+        "category": "Bebidas",
+        "brand": null,
+        "details": null,
+        "measure": "600 ml",
+        "price": 6.5
+    },
+    {
+        "name": "Cerveja latinha",
+        "category": "Bebidas",
+        "brand": null,
+        "details": "Latinha",
+        "measure": null,
+        "price": 4
+    },
+    {
+        "name": "Cerveja Petra",
+        "category": "Bebidas",
+        "brand": "Petra",
+        "details": null,
+        "measure": null,
+        "price": 5
+    },
+    {
+        "name": "Cerveja Devassa",
+        "category": "Bebidas",
+        "brand": "Devassa",
+        "details": null,
+        "measure": null,
+        "price": 5
+    },
+    {
+        "name": "Cerveja latão",
+        "category": "Bebidas",
+        "brand": null,
+        "details": "Latão",
+        "measure": null,
+        "price": 6
+    },
+    {
+        "name": "Cerveja Skol latão",
+        "category": "Bebidas",
+        "brand": "Skol",
+        "details": "Latão",
+        "measure": null,
+        "price": 6.5
+    },
+    {
+        "name": "Cerveja Skol latinha",
+        "category": "Bebidas",
+        "brand": "Skol",
+        "details": "Latinha",
+        "measure": null,
+        "price": 4.5
+    },
+    {
+        "name": "Cerveja Itaipava Zero",
+        "category": "Bebidas",
+        "brand": "Itaipava",
+        "details": "Zero",
+        "measure": null,
+        "price": 5
+    },
+    {
+        "name": "Cerveja Itaipava latão",
+        "category": "Bebidas",
+        "brand": "Itaipava",
+        "details": "Latão",
+        "measure": null,
+        "price": 6
+    },
+    {
+        "name": "Cerveja Itaipava latinha",
+        "category": "Bebidas",
+        "brand": "Itaipava",
+        "details": "latinha",
+        "measure": null,
+        "price": 4
+    },
+    {
+        "name": "Cerveja Itaipava Garrafa",
+        "category": "Bebidas",
+        "brand": "Itaipava",
+        "details": "Garrafa",
+        "measure": "Garrafa 600 ml",
+        "price": 6.5
+    },
+    {
+        "name": "Cerveja Skol latinha",
+        "category": "Bebidas",
+        "brand": "Skol",
+        "details": "latinha",
+        "measure": null,
+        "price": 4
+    },
+    {
+        "name": "Cerveja Itaipava sem álcool",
+        "category": "Bebidas",
+        "brand": "Itaipava",
+        "details": "Sem álcool",
+        "measure": null,
+        "price": 5
+    },
+    {
+        "name": "Refrigerante Genérico 2L",
+        "category": "Bebidas",
+        "brand": null,
+        "details": null,
+        "measure": "2L",
+        "price": 7
+    },
+    {
+        "name": "Refrigerante Coca-Cola 2,5L",
+        "category": "Bebidas",
+        "brand": "Coca-Cola",
+        "details": null,
+        "measure": "2,5L",
+        "price": 13
+    },
+    {
+        "name": "Refrigerante Coca-Cola 2L",
+        "category": "Bebidas",
+        "brand": "Coca-Cola",
+        "details": null,
+        "measure": "2L",
+        "price": 12
+    },
+    {
+        "name": "Refrigerante Coca-Cola 250 ml",
+        "category": "Bebidas",
+        "brand": "Coca-Cola",
+        "details": null,
+        "measure": "250 ml",
+        "price": 3
+    },
+    {
+        "name": "Refrigerante Genérico 250 ml",
+        "category": "Bebidas",
+        "brand": null,
+        "details": null,
+        "measure": "250 ml",
+        "price": 2.5
+    },
+    {
+        "name": "Refrigerante Genérico lata",
+        "category": "Bebidas",
+        "brand": null,
+        "details": "lata",
+        "measure": null,
+        "price": 4
+    },
+    {
+        "name": "Refrigerante H2oh",
+        "category": "Bebidas",
+        "brand": "H2oh",
+        "details": null,
+        "measure": null,
+        "price": 7
+    },
+    {
+        "name": "Refrigerante Genérico 1L",
+        "category": "Bebidas",
+        "brand": null,
+        "details": null,
+        "measure": "1L",
+        "price": 6
+    },
+    {
+        "name": "Refrigerante Coca-Cola 1L",
+        "category": "Bebidas",
+        "brand": "Coca-Cola",
+        "details": null,
+        "measure": "1L",
+        "price": 7
+    },
+    {
+        "name": "Iogurte 1L",
+        "category": "Bebidas",
+        "brand": null,
+        "details": null,
+        "measure": "1L",
+        "price": 7.5
+    },
+    {
+        "name": "Iogurte 450 ml",
+        "category": "Bebidas",
+        "brand": null,
+        "details": null,
+        "measure": "450 ml",
+        "price": 5.5
+    },
+    {
+        "name": "Iogurte 180 ml",
+        "category": "Bebidas",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 3
+    },
+    {
+        "name": "Iogurte Chupetinha",
+        "category": "Bebidas",
+        "brand": null,
+        "details": "Chupetinha",
+        "measure": null,
+        "price": 1.5
+    },
+    {
+        "name": "Cerveja Heineken",
+        "category": "Bebidas",
+        "brand": "Heineken",
+        "details": null,
+        "measure": null,
+        "price": 7
+    },
+    {
+        "name": "Água 1,5L",
+        "category": "Bebidas",
+        "brand": null,
+        "details": null,
+        "measure": "1,5L",
+        "price": 4
+    },
+    {
+        "name": "Água sem gás",
+        "category": "Bebidas",
+        "brand": null,
+        "details": "Sem gás",
+        "measure": null,
+        "price": 2.5
+    },
+    {
+        "name": "Água com gás",
+        "category": "Bebidas",
+        "brand": null,
+        "details": "Com gás",
+        "measure": null,
+        "price": 3
+    },
+    {
+        "name": "Água (troca galão)",
+        "category": "Bebidas",
+        "brand": null,
+        "details": "Na troca do galão",
+        "measure": "Galão",
+        "price": 0
+    },
+    {
+        "name": "Água (venda com galão)",
+        "category": "Bebidas",
+        "brand": null,
+        "details": "Com galão",
+        "measure": null,
+        "price": 0
+    },
+    {
+        "name": "Agua 1,5L",
+        "category": "Bebidas",
+        "brand": null,
+        "details": null,
+        "measure": "1,5L",
+        "price": 4
+    },
+    {
+        "name": "Agua sem gás",
+        "category": "Bebidas",
+        "brand": null,
+        "details": "Sem gás",
+        "measure": null,
+        "price": 2.5
+    },
+    {
+        "name": "Agua com gás",
+        "category": "Bebidas",
+        "brand": null,
+        "details": "Com gás",
+        "measure": null,
+        "price": 3
+    },
+    {
+        "name": "Agua (troca galão)",
+        "category": "Bebidas",
+        "brand": null,
+        "details": "Na troca do galão",
+        "measure": "Galão",
+        "price": 0
+    },
+    {
+        "name": "Agua (venda com galão)",
+        "category": "Bebidas",
+        "brand": null,
+        "details": "Com galão",
+        "measure": null,
+        "price": 0
+    },
+    {
+        "name": "Energético TNT pequeno",
+        "category": "Bebidas",
+        "brand": "TNT",
+        "details": "Pequeno",
+        "measure": null,
+        "price": 10
+    },
+    {
+        "name": "Energético TNT grande",
+        "category": "Bebidas",
+        "brand": "TNT",
+        "details": "Grande",
+        "measure": null,
+        "price": 12
+    },
+    {
+        "name": "Conhaque à dose",
+        "category": "Bebidas",
+        "brand": null,
+        "details": "Venda à dose",
+        "measure": "Dose",
+        "price": 4
+    },
+    {
+        "name": "Pinga à dose",
+        "category": "Bebidas",
+        "brand": null,
+        "details": "Venda à dose",
+        "measure": "Dose",
+        "price": 3
+    },
+    {
+        "name": "Montila à dose",
+        "category": null,
+        "brand": null,
+        "details": "Venda à dose",
+        "measure": "Dose",
+        "price": 4
+    },
+    {
+        "name": "Guarathon 290 ml",
+        "category": "Bebidas",
+        "brand": "Guarathon",
+        "details": null,
+        "measure": "290 ml",
+        "price": 2.5
+    },
+    {
+        "name": "Achocolatado Maratinho 200 ml",
+        "category": "Bebidas",
+        "brand": "Maratinho",
+        "details": null,
+        "measure": "200 ml",
+        "price": 2.5
+    },
+    {
+        "name": "Achocolatado Italakinho 200 ml",
+        "category": "Bebidas",
+        "brand": "Italakinho",
+        "details": null,
+        "measure": "200 ml",
+        "price": 2.5
+    },
+    {
+        "name": "Achocolatado Nescau 180 ml",
+        "category": "Bebidas",
+        "brand": "Nescau",
+        "details": null,
+        "measure": "180 ml",
+        "price": 3
+    },
+    {
+        "name": "Energético Red Bull 250 ml",
+        "category": "Bebidas",
+        "brand": "Red Bull",
+        "details": null,
+        "measure": "250 ml",
+        "price": 12
+    },
+    {
+        "name": "Açúcar",
+        "category": "Mercearia",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 5.5
+    },
+    {
+        "name": "Coco Ralado Bahia 50g",
+        "category": "Mercearia",
+        "brand": "Bahia",
+        "details": null,
+        "measure": "50g",
+        "price": 5.5
+    },
+    {
+        "name": "Milho enlatado",
+        "category": "Mercearia",
+        "brand": null,
+        "details": null,
+        "measure": "Lata",
+        "price": 6.7
+    },
+    {
+        "name": "Milho para pipoca",
+        "category": "Mercearia",
+        "brand": "Kicaldo",
+        "details": null,
+        "measure": "500g",
+        "price": 6.5
+    },
+    {
+        "name": "Ervilha enlatada Bonare",
+        "category": "Mercearia",
+        "brand": "Bonare",
+        "details": null,
+        "measure": "Lata",
+        "price": 5.7
+    },
+    {
+        "name": "Amendoim",
+        "category": "Salgados",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 2
+    },
+    {
+        "name": "Babaloo",
+        "category": "Doces",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 0.5
+    },
+    {
+        "name": "Bala Canela",
+        "category": "Doces",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 0.25
+    },
+    {
+        "name": "Bala Comum",
+        "category": "Doces",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 0.15
+    },
+    {
+        "name": "Bala Goma (Jujuba)",
+        "category": "Doces",
+        "brand": null,
+        "details": "Balinha goma colorida",
+        "measure": null,
+        "price": 1.5
+    },
+    {
+        "name": "Bala Hortelã",
+        "category": "Doces",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 0.2
+    },
+    {
+        "name": "Bauru",
+        "category": "Salgados",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 4
+    },
+    {
+        "name": "Chiclete Big Big",
+        "category": "Doces",
+        "brand": "Big Big",
+        "details": null,
+        "measure": null,
+        "price": 0.5
+    },
+    {
+        "name": "Biscoito de povilho",
+        "category": "Bolachas e Biscoitos",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 5
+    },
+    {
+        "name": "Biscoito palito açucarado",
+        "category": "Bolachas e Biscoitos",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 5
+    },
+    {
+        "name": "Bolacha Recheada",
+        "category": "Bolachas e Biscoitos",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 3
+    },
+    {
+        "name": "Bolacha Cream-Cracker",
+        "category": "Bolachas e Biscoitos",
+        "brand": "Cream-Cracker",
+        "details": null,
+        "measure": null,
+        "price": 8.5
+    },
+    {
+        "name": "Bolacha Vitarella Maizena",
+        "category": "Bolachas e Biscoitos",
+        "brand": "Vitarella",
+        "details": null,
+        "measure": null,
+        "price": 8.5
+    },
+    {
+        "name": "Biscoito Vitarella Maria Tradicional",
+        "category": "Bolachas e Biscoitos",
+        "brand": "Vitarella",
+        "details": null,
+        "measure": null,
+        "price": 8.5
+    },
+    {
+        "name": "Bolacha Brandini Maria",
+        "category": "Bolachas e Biscoitos",
+        "brand": "Brandini",
+        "details": null,
+        "measure": null,
+        "price": 8.5
+    },
+    {
+        "name": "Bolo inteiro",
+        "category": "Lanches",
+        "brand": null,
+        "details": null,
+        "measure": "Inteiro",
+        "price": 10
+    },
+    {
+        "name": "Bolo milho (fatia)",
+        "category": "Lanches",
+        "brand": null,
+        "details": null,
+        "measure": "Fatia",
+        "price": 4
+    },
+    {
+        "name": "Broa (pacote)",
+        "category": "Bolachas e Biscoitos",
+        "brand": null,
+        "details": null,
+        "measure": "Pacote",
+        "price": 5
+    },
+    {
+        "name": "Chocolate Cacauzinho",
+        "category": "Doces",
+        "brand": "Cacauzinho",
+        "details": null,
+        "measure": null,
+        "price": 1.5
+    },
+    {
+        "name": "Café puro (meio copo)",
+        "category": "Lanches",
+        "brand": null,
+        "details": null,
+        "measure": "Meio copo",
+        "price": 1
+    },
+    {
+        "name": "Café com leite (copo cheio)",
+        "category": "Lanches",
+        "brand": null,
+        "details": null,
+        "measure": "Copo cheio",
+        "price": 2
+    },
+    {
+        "name": "Bombom (caixa)",
+        "category": "Doces",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 17
+    },
+    {
+        "name": "Chiclete Big Big",
+        "category": null,
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 999
+    },
+    {
+        "name": "Chocolate (barrinha)",
+        "category": "Doces",
+        "brand": null,
+        "details": null,
+        "measure": "Barrinha",
+        "price": 3
+    },
+    {
+        "name": "Cortes Temperados Avinor",
+        "category": "Frios",
+        "brand": "Avinor",
+        "details": null,
+        "measure": null,
+        "price": 25.5
+    },
+    {
+        "name": "Coxa e sobrecoxa Pif-Paf",
+        "category": "Frios",
+        "brand": "Pif-Paf",
+        "details": "Pesar",
+        "measure": null,
+        "price": 19.5
+    },
+    {
+        "name": "Esponja lava louças",
+        "category": "Limpeza e Higiene",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 1.5
+    },
+    {
+        "name": "Absorvente",
+        "category": "Limpeza e Higiene",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 6.5
+    },
+    {
+        "name": "Filé de peito de frango",
+        "category": "Frios",
+        "brand": null,
+        "details": "Já pesado",
+        "measure": null,
+        "price": 28.75
+    },
+    {
+        "name": "Miojo Marata Lámen",
+        "category": "Mercearia",
+        "brand": "Marata",
+        "details": null,
+        "measure": null,
+        "price": 2
+    },
+    {
+        "name": "Frango congelado",
+        "category": "Frios",
+        "brand": null,
+        "details": "Pesar",
+        "measure": "O quilo",
+        "price": 12.9
+    },
+    {
+        "name": "Frango temperado Avinor",
+        "category": "Frios",
+        "brand": "Avinor",
+        "details": null,
+        "measure": null,
+        "price": null
+    },
+    {
+        "name": "Frango a Passarinho",
+        "category": "Frios",
+        "brand": null,
+        "details": "Pesar",
+        "measure": "O quilo",
+        "price": 19.5
+    },
+    {
+        "name": "Costela a Passarinho",
+        "category": "Frios",
+        "brand": null,
+        "details": "Pesar",
+        "measure": "O quilo",
+        "price": 28
+    },
+    {
+        "name": "Mortadela",
+        "category": "Frios",
+        "brand": null,
+        "details": null,
+        "measure": "Rolo pequeno",
+        "price": 6
+    },
+    {
+        "name": "Goiabada",
+        "category": "Mercearia",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 3.8
+    },
+    {
+        "name": "Macarrão Pilar",
+        "category": "Mercearia",
+        "brand": "Pilar",
+        "details": null,
+        "measure": null,
+        "price": 5
+    },
+    {
+        "name": "Milharina Flocão",
+        "category": "Mercearia",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 4
+    },
+    {
+        "name": "Goma fresca de tapioca",
+        "category": "Mercearia",
+        "brand": null,
+        "details": null,
+        "measure": "Bloco",
+        "price": 8
+    },
+    {
+        "name": "Bala Halls",
+        "category": "Doces",
+        "brand": "Halls",
+        "details": null,
+        "measure": null,
+        "price": 2.5
+    },
+    {
+        "name": "Lâminas Barbear (caixinha)",
+        "category": "Limpeza e Higiene",
+        "brand": null,
+        "details": "Caixinha com 3 unidades",
+        "measure": "Caixa",
+        "price": 4.5
+    },
+    {
+        "name": "Palitos Paraná Petiscos",
+        "category": "Limpeza e Higiene",
+        "brand": "Paraná",
+        "details": null,
+        "measure": null,
+        "price": 3
+    },
+    {
+        "name": "Lâmina Barbear (unidade)",
+        "category": "Limpeza e Higiene",
+        "brand": null,
+        "details": null,
+        "measure": "Unidade",
+        "price": 1.5
+    },
+    {
+        "name": "Isqueiro",
+        "category": "Utilidades",
+        "brand": null,
+        "details": null,
+        "measure": "Unidade",
+        "price": 6.5
+    },
+    {
+        "name": "Cartão Suco Tang",
+        "category": "Sucos",
+        "brand": "Tang",
+        "details": null,
+        "measure": "Cartão",
+        "price": 1.5
+    },
+    {
+        "name": "Geléia de Framboesa",
+        "category": "Mercearia",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 22
+    },
+    {
+        "name": "Leite Integral Natville (caixa)",
+        "category": "Mercearia",
+        "brand": "Natville",
+        "details": null,
+        "measure": "Caixa",
+        "price": 9
+    },
+    {
+        "name": "Arrozina",
+        "category": "Mercearia",
+        "brand": null,
+        "details": null,
+        "measure": "Caixa",
+        "price": 7.7
+    },
+    {
+        "name": "Leite Coco",
+        "category": "Mercearia",
+        "brand": null,
+        "details": null,
+        "measure": "Frasco",
+        "price": 5.5
+    },
+    {
+        "name": "Catchup Tambau",
+        "category": "Mercearia",
+        "brand": "Tambau",
+        "details": null,
+        "measure": "Frasco 380g",
+        "price": 6.9
+    },
+    {
+        "name": "Molho de Tomate Etti Tradicional",
+        "category": "Mercearia",
+        "brand": "Etti",
+        "details": null,
+        "measure": "Pacote",
+        "price": 4.5
+    },
+    {
+        "name": "Mistura Leite Mococa",
+        "category": "Mercearia",
+        "brand": "Mococa",
+        "details": null,
+        "measure": "Caixa 200g",
+        "price": 5.5
+    },
+    {
+        "name": "Leite Condensado Italac",
+        "category": "Mercearia",
+        "brand": "Italac",
+        "details": null,
+        "measure": "Caixa 395g",
+        "price": 8.5
+    },
+    {
+        "name": "Azeite de Oliva Borges",
+        "category": "Mercearia",
+        "brand": "Borges",
+        "details": null,
+        "measure": "Garrafa",
+        "price": 35
+    },
+    {
+        "name": "Sardinha 88",
+        "category": "Mercearia",
+        "brand": "88",
+        "details": null,
+        "measure": null,
+        "price": 6.8
+    },
+    {
+        "name": "Vinagre Gota",
+        "category": "Mercearia",
+        "brand": "Gota",
+        "details": null,
+        "measure": null,
+        "price": 3.5
+    },
+    {
+        "name": "Achocolatado Maratá",
+        "category": "Mercearia",
+        "brand": "Maratá",
+        "details": null,
+        "measure": "Pacote",
+        "price": 6
+    },
+    {
+        "name": "Café pacote",
+        "category": "Mercearia",
+        "brand": null,
+        "details": null,
+        "measure": "Pacote",
+        "price": 10
+    },
+    {
+        "name": "Leite em pó Piracanjuba",
+        "category": "Mercearia",
+        "brand": "Piracanjuba",
+        "details": null,
+        "measure": "Pacote",
+        "price": 13.5
+    },
+    {
+        "name": "Mistura composto Lacteo",
+        "category": "Mercearia",
+        "brand": null,
+        "details": null,
+        "measure": "Pacote",
+        "price": 6
+    },
+    {
+        "name": "Leite natural",
+        "category": "Mercearia",
+        "brand": null,
+        "details": "null",
+        "measure": "Saco 1L",
+        "price": 5
+    },
+    {
+        "name": "Leite Ninho",
+        "category": "Mercearia",
+        "brand": "Ninho",
+        "details": null,
+        "measure": null,
+        "price": 27
+    },
+    {
+        "name": "Linguiça mineira",
+        "category": "Frios",
+        "brand": null,
+        "details": "Pesar",
+        "measure": "O quilo",
+        "price": 27
+    },
+    {
+        "name": "Margarina",
+        "category": "Mercearia",
+        "brand": null,
+        "details": null,
+        "measure": "Pote",
+        "price": 6
+    },
+    {
+        "name": "Milho para pipoca",
+        "category": "Mercearia",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 6.5
+    },
+    {
+        "name": "Ovos (dúzia)",
+        "category": "Mercearia",
+        "brand": null,
+        "details": null,
+        "measure": "Dúzia",
+        "price": 12
+    },
+    {
+        "name": "Ovos (cartela)",
+        "category": "Mercearia",
+        "brand": null,
+        "details": null,
+        "measure": "Cartela",
+        "price": 25
+    },
+    {
+        "name": "Paçoca",
+        "category": "Doces",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 1
+    },
+    {
+        "name": "Paçoca cocada amendoim",
+        "category": "Doces",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 3
+    },
+    {
+        "name": "Papel higiênico Novo",
+        "category": "Limpeza e Higiene",
+        "brand": "Novo",
+        "details": null,
+        "measure": null,
+        "price": 5.5
+    },
+    {
+        "name": "Papel higiênico Max / Velud",
+        "category": "Limpeza e Higiene",
+        "brand": "Max / Velud",
+        "details": null,
+        "measure": null,
+        "price": 8.5
+    },
+    {
+        "name": "Pastel / Coxinha",
+        "category": "Lanches",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 4
+    },
+    {
+        "name": "Misto quente",
+        "category": "Lanches",
+        "brand": null,
+        "details": "Pão com queijo e presunto",
+        "measure": "Unidade",
+        "price": 5
+    },
+    {
+        "name": "Pipoca pacotinho",
+        "category": "Doces",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 2
+    },
+    {
+        "name": "Pirulito grande",
+        "category": "Doces",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 1.2
+    },
+    {
+        "name": "Preservativo",
+        "category": null,
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 5.5
+    },
+    {
+        "name": "Salgadinho Pururuca / Pelinha ",
+        "category": "Salgados",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 2.5
+    },
+    {
+        "name": "Pururuca / Pelinha (pacote transparente)",
+        "category": "Salgados",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 2
+    },
+    {
+        "name": "Queijo",
+        "category": "Mercearia",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 22
+    },
+    {
+        "name": "Sabão barrinha",
+        "category": "Limpeza e Higiene",
+        "brand": null,
+        "details": null,
+        "measure": "barra",
+        "price": 4
+    },
+    {
+        "name": "Sabão barrinha coco",
+        "category": "Limpeza e Higiene",
+        "brand": null,
+        "details": null,
+        "measure": "barra",
+        "price": 5.5
+    },
+    {
+        "name": "Sabão em pó OMO",
+        "category": "Limpeza e Higiene",
+        "brand": "OMO",
+        "details": null,
+        "measure": null,
+        "price": 11.9
+    },
+    {
+        "name": "Sabão em pó Ala",
+        "category": "Limpeza e Higiene",
+        "brand": "Ala",
+        "details": null,
+        "measure": null,
+        "price": null
+    },
+    {
+        "name": "Sabão Teiu",
+        "category": "Limpeza e Higiene",
+        "brand": "Teiu",
+        "details": null,
+        "measure": null,
+        "price": 7.5
+    },
+    {
+        "name": "Sal",
+        "category": "Mercearia",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 2.5
+    },
+    {
+        "name": "Salgadinho batata",
+        "category": "Salgados",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 3.5
+    },
+    {
+        "name": "Salgadinho pacote amarelo",
+        "category": "Salgados",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 2
+    },
+    {
+        "name": "Salgadinho pacote menor",
+        "category": "Salgados",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 1.5
+    },
+    {
+        "name": "Salsicha",
+        "category": "Frios",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 20
+    },
+    {
+        "name": "Torta chocolate (fatia)",
+        "category": "Lanches",
+        "brand": null,
+        "details": null,
+        "measure": "Fatia",
+        "price": 5
+    },
+    {
+        "name": "Chiclete Trident",
+        "category": "Doces",
+        "brand": "Trident",
+        "details": null,
+        "measure": null,
+        "price": 3
+    },
+    {
+        "name": "Caldo Galinha Kinor",
+        "category": "Temperos",
+        "brand": "Kinor",
+        "details": null,
+        "measure": "Barrinha",
+        "price": 2
+    },
+    {
+        "name": "Cimegripe",
+        "category": "Medicamentos",
+        "brand": "Cimegripe",
+        "details": null,
+        "measure": "Unidade",
+        "price": 2
+    },
+    {
+        "name": "Chinela / Sandália",
+        "category": "Calçados",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 18
+    }
+]
