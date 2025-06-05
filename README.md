@@ -47,8 +47,8 @@ Este é um aplicativo web simples e otimizado para dispositivos móveis, desenvo
 
 1. Clone o Repositório:
     ```sh
-    git clone <URL_DO_SEU_REPOSITORIO>
-    cd gerenciador-de-produtos # Ou o nome da sua pasta
+    git clone git@github.com:dihcoder/gerenciador-prod.git
+    cd gerenciador-prod
     ```
 2. Abra no Navegador:
 Basta abrir o arquivo `index.html` diretamente no seu navegador web. Não é necessário um servidor web para executar esta aplicação, pois ela utiliza apenas recursos do navegador e `localStorage`.
