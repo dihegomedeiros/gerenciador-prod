@@ -2,6 +2,14 @@
 
 Este é um aplicativo web simples e otimizado para dispositivos móveis, desenvolvido em HTML, CSS (com Tailwind CSS) e JavaScript puro. Ele foi projetado para ajudar vendedores iniciantes a gerenciar e consultar o preço de produtos em uma empresa que comercializa itens de padaria, delicatessen e produtos de mercado em geral.
 
+## Novidades
+
+### Melhorias Versão 2.0
+
+- ✨ **Desing Aprimorado**: O layout da aplicação foi aprimorado, trazendo um novo estilo, cores e um maior aproveitamento de tela em clientes desktop e mobile.
+- ✨ **Simplificação do Uso**: As barras de pesquisa anteriores foram substituídas por uma única para consultas por nome, categoria ou detalhes, dependendo do tipo de consulta que estiver selecionado.
+- ✨ **Indicador de Última Atividade**: Os produtos listados agora possuem um indicador colorido para informar se o produto foi criado/atualizado há menos de 1 mês (verde), há mais de 1 mês (amarelo) ou há mais de 3 meses (vermelho).
+
 ## Funcionalidades
 
 - Consulta de Produtos: Permite buscar produtos por nome, categoria e detalhes. A lista de produtos é exibida em ordem alfabética para facilitar a localização.

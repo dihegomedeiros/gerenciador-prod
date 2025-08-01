@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerenciador de Produtos</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <div id="messageBox" class="message-box"></div>
+
+    <div class="container">
+        <h1 class="sr-only">Gerenciador de Produtos</h1>
+
+        <div class="flex mb-4 tab-buttons">
+            <button class="tab-button active" onclick="showSection('consultation')">Consulta</button>
+            <button class="tab-button" onclick="showSection('registration')">Cadastro</button>
+            <button class="tab-button" onclick="showSection('data-management')">Dados</button>
+        </div>
+
+        <!-- Seção de Consulta de Produtos -->
+        <div id="consultationSection" class="form-section active">
+            <div class="flex justify-between search-bar-container">
+                <input type="text" id="searchBar" placeholder="Buscar por Nome..." class="mb-2">
+                <fieldset>
+                    <legend>Referência:</legend>
+
+                    <div>
+                        <input type="radio" id="name" name="searchBy" value="name" checked />
+                        <label for="name">Nome</label>
+                    </div>
+
+                    <div>
+                        <input type="radio" id="category" name="searchBy" value="category" />
+                        <label for="category">Categoria</label>
+                    </div>
+
+                    <div>
+                        <input type="radio" id="details" name="searchBy" value="details" />
+                        <label for="details">Detalhes</label>
+                    </div>
+                </fieldset>
+            </div>
+
+            <div id="productList" class="grid grid-cols-1 gap-4">
+                <!-- Produtos serão listados aqui -->
+            </div>
+        </div>
+
+        <!-- Seção de Cadastro de Produtos -->
+        <div id="registrationSection" class="form-section">
+            <h2 class="text-2xl font-semibold text-gray-700 mb-4">Cadastrar / Atualizar Produto</h2>
+            <input type="hidden" id="productId">
+            <input type="text" id="productName" placeholder="Nome do Produto" required>
+            <input type="text" id="productCategory" placeholder="Categoria (ex: Bebidas, Mercearia)">
+            <input type="text" id="productBrand" placeholder="Marca">
+            <input type="text" id="productDetails" placeholder="Detalhes (ex: Latinha, Zero)">
+            <input type="text" id="productMeasure" placeholder="Medida (ex: 600 ml, 2L)">
+            <input type="number" id="productPrice" placeholder="Preço" step="0.01" required>
+            <button onclick="saveProduct()">Salvar Produto</button>
+            <button onclick="clearForm()" class="secondary">Limpar Formulário</button>
+        </div>
+
+        <!-- Seção de Gestão de Dados -->
+        <div id="data-managementSection" class="form-section">
+            <h2 class="text-2xl font-semibold text-gray-700 mb-4">Gestão de Dados</h2>
+            <button onclick="exportData()">Exportar Dados (JSON)</button>
+            <input type="file" id="importFile" accept=".json" class="mt-4 mb-2 p-2 border rounded-md">
+            <button onclick="importData()" class="w-full">Importar Dados</button>
+            <button onclick="loadDemoData()" class="w-full">Carregar Dados Demonstrativos</button>
+            <button onclick="confirmClearData()" class="danger mt-4">Limpar Todos os Dados</button>
+        </div>
+    </div>
+
+    <script src="./js/script.js"></script>
+</body>
+
+</html>
