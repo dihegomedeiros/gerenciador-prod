@@ -12,6 +12,8 @@ Este é um aplicativo web simples e otimizado para dispositivos móveis, desenvo
 
 ## Funcionalidades
 
+### Versão 1.0
+
 - Consulta de Produtos: Permite buscar produtos por nome, categoria e detalhes. A lista de produtos é exibida em ordem alfabética para facilitar a localização.
 
 - Cadastro e Edição: Adicione novos produtos ou atualize informações de produtos existentes, incluindo nome, categoria, marca, detalhes, medida e preço.
