@@ -33,6 +33,17 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
+        "id": "me691pgl5kkop",
+        "name": "Achocolatado Chocoten",
+        "category": null,
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 7.8,
+        "createdAt": "2025-08-10T22:22:36.069Z",
+        "updatedAt": null
+    },
+    {
         "id": "demo-109",
         "name": "Achocolatado Maratá",
         "category": "Mercearia",
@@ -41,7 +52,7 @@ export const demoProducts = [
         "measure": "Pacote",
         "price": 6,
         "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
+        "updatedAt": "2025-08-10T22:21:06.650Z"
     },
     {
         "id": "demo-48",
@@ -110,6 +121,28 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
+        "id": "me1ch576kz8c1",
+        "name": "Amaciante 2L Teiu",
+        "category": "Higiene e Limpeza",
+        "brand": "Teiu",
+        "details": null,
+        "measure": "2L",
+        "price": 12,
+        "createdAt": "2025-08-07T11:59:44.274Z",
+        "updatedAt": null
+    },
+    {
+        "id": "me1ci6gg0znir",
+        "name": "Amaciante Sense 500ml",
+        "category": "Higiene e Limpeza",
+        "brand": "Sense",
+        "details": null,
+        "measure": "500ml",
+        "price": 5,
+        "createdAt": "2025-08-07T12:00:32.560Z",
+        "updatedAt": null
+    },
+    {
         "id": "demo-53",
         "name": "Amendoim",
         "category": "Salgados",
@@ -129,17 +162,6 @@ export const demoProducts = [
         "measure": "1kg",
         "price": 8.4,
         "createdAt": "2025-08-01T22:15:19.293Z",
-        "updatedAt": null
-    },
-    {
-        "id": "demo-100",
-        "name": "Arrozina",
-        "category": "Mercearia",
-        "brand": null,
-        "details": null,
-        "measure": "Caixa",
-        "price": 7.7,
-        "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": null
     },
     {
@@ -220,6 +242,28 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
+        "id": "mdu8iiroiehx1",
+        "name": "Band Aid bandaid",
+        "category": null,
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 29.9,
+        "createdAt": "2025-08-02T12:34:26.820Z",
+        "updatedAt": "2025-08-11T12:57:07.417Z"
+    },
+    {
+        "id": "me73reeddzwxm",
+        "name": "Batata palha",
+        "category": null,
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 7.9,
+        "createdAt": "2025-08-11T12:42:23.269Z",
+        "updatedAt": null
+    },
+    {
         "id": "demo-59",
         "name": "Bauru",
         "category": "Salgados",
@@ -251,6 +295,17 @@ export const demoProducts = [
         "price": 6,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-01T21:50:33.598Z"
+    },
+    {
+        "id": "me74by5g4ty9q",
+        "name": "Biscoito Marilan",
+        "category": null,
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 2.5,
+        "createdAt": "2025-08-11T12:58:21.988Z",
+        "updatedAt": null
     },
     {
         "id": "demo-62",
@@ -426,7 +481,7 @@ export const demoProducts = [
         "measure": "Pacote",
         "price": 16,
         "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": "2025-08-02T12:15:07.805Z"
+        "updatedAt": "2025-08-11T12:50:22.591Z"
     },
     {
         "id": "demo-72",
@@ -459,6 +514,28 @@ export const demoProducts = [
         "measure": null,
         "price": 6,
         "createdAt": "2025-08-02T12:05:32.773Z",
+        "updatedAt": "2025-08-11T12:44:19.567Z"
+    },
+    {
+        "id": "me73v6et5ak4c",
+        "name": "Canela em pó 30g",
+        "category": null,
+        "brand": null,
+        "details": null,
+        "measure": "30g",
+        "price": 9.5,
+        "createdAt": "2025-08-11T12:45:19.541Z",
+        "updatedAt": null
+    },
+    {
+        "id": "me73uob59jg1f",
+        "name": "Canela em pó 8g",
+        "category": null,
+        "brand": null,
+        "details": null,
+        "measure": "8g",
+        "price": 5.5,
+        "createdAt": "2025-08-11T12:44:56.081Z",
         "updatedAt": null
     },
     {
@@ -559,17 +636,6 @@ export const demoProducts = [
         "price": 8,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-01T22:46:26.877Z"
-    },
-    {
-        "id": "demo-11",
-        "name": "Cerveja Itaipava Garrafa",
-        "category": "Bebidas",
-        "brand": "Itaipava",
-        "details": "Garrafa",
-        "measure": "Garrafa 600 ml",
-        "price": 6.5,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
     },
     {
         "id": "demo-9",
@@ -781,6 +847,72 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
+        "id": "demo-22",
+        "name": "Coca Cola 1L Refrigerante",
+        "category": "Bebidas",
+        "brand": "Coca Cola",
+        "details": null,
+        "measure": "1L",
+        "price": 8,
+        "createdAt": "2025-06-05T03:00:00.000Z",
+        "updatedAt": "2025-08-06T11:43:54.746Z"
+    },
+    {
+        "id": "demo-15",
+        "name": "Coca Cola 2,5L Refrigerante",
+        "category": "Bebidas",
+        "brand": "Coca Cola",
+        "details": null,
+        "measure": "2,5L",
+        "price": 14,
+        "createdAt": "2025-06-05T03:00:00.000Z",
+        "updatedAt": "2025-08-06T11:44:31.258Z"
+    },
+    {
+        "id": "demo-16",
+        "name": "Coca Cola 2L Refrigerante",
+        "category": "Bebidas",
+        "brand": "Coca-Cola",
+        "details": null,
+        "measure": "2L",
+        "price": 13,
+        "createdAt": "2025-06-05T03:00:00.000Z",
+        "updatedAt": "2025-08-06T11:45:00.374Z"
+    },
+    {
+        "id": "demo-17",
+        "name": "Coca Cola garrafinha 250 ml Refrigerante",
+        "category": "Bebidas",
+        "brand": "Coca Cola",
+        "details": null,
+        "measure": "250 ml garrafinha",
+        "price": 4,
+        "createdAt": "2025-06-05T03:00:00.000Z",
+        "updatedAt": "2025-08-10T13:16:11.109Z"
+    },
+    {
+        "id": "mdtepiqtb9xtm",
+        "name": "Coca Cola lata Refrigerante",
+        "category": "Bebidas",
+        "brand": "Coca Cola",
+        "details": "Lata",
+        "measure": null,
+        "price": 5,
+        "createdAt": "2025-08-01T22:40:04.901Z",
+        "updatedAt": "2025-08-06T11:45:28.421Z"
+    },
+    {
+        "id": "me73yhd7gxie1",
+        "name": "Coco Ralado Bahia 100g",
+        "category": "Mercearia",
+        "brand": "Bahia",
+        "details": null,
+        "measure": "100g",
+        "price": 8.5,
+        "createdAt": "2025-08-11T12:47:53.707Z",
+        "updatedAt": null
+    },
+    {
         "id": "demo-49",
         "name": "Coco Ralado Bahia 50g",
         "category": "Mercearia",
@@ -789,7 +921,7 @@ export const demoProducts = [
         "measure": "50g",
         "price": 5.5,
         "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
+        "updatedAt": "2025-08-11T12:47:27.872Z"
     },
     {
         "id": "mdu8kskp1gzh4",
@@ -847,6 +979,17 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
+        "id": "mdu8j9egfbn7v",
+        "name": "Cotonetes",
+        "category": null,
+        "brand": "Cotton",
+        "details": null,
+        "measure": null,
+        "price": 5.5,
+        "createdAt": "2025-08-02T12:35:01.336Z",
+        "updatedAt": "2025-08-11T12:56:42.152Z"
+    },
+    {
         "id": "mdtftjryuqzq2",
         "name": "Coxa e Sobrecoxa",
         "category": "Frios",
@@ -891,6 +1034,17 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
+        "id": "me745d1dl257e",
+        "name": "Creme cabelo Skala 1000g",
+        "category": null,
+        "brand": "Skala",
+        "details": null,
+        "measure": "1000g pote",
+        "price": 14,
+        "createdAt": "2025-08-11T12:53:14.689Z",
+        "updatedAt": null
+    },
+    {
         "id": "mdtd60nsiehxw",
         "name": "Creme de Leite",
         "category": "Mercearia",
@@ -900,6 +1054,17 @@ export const demoProducts = [
         "price": 5.5,
         "createdAt": "2025-08-01T21:56:55.384Z",
         "updatedAt": "2025-08-02T12:00:52.917Z"
+    },
+    {
+        "id": "me747m405ksuv",
+        "name": "Creme dental Closeup",
+        "category": null,
+        "brand": "Closeup",
+        "details": null,
+        "measure": "70g",
+        "price": 5.9,
+        "createdAt": "2025-08-11T12:54:59.760Z",
+        "updatedAt": null
     },
     {
         "id": "mdtchsicb7axc",
@@ -944,6 +1109,28 @@ export const demoProducts = [
         "price": 22,
         "createdAt": "2025-08-02T12:32:55.654Z",
         "updatedAt": null
+    },
+    {
+        "id": "me744h3ybobni",
+        "name": "Desodorante corporal Skala",
+        "category": null,
+        "brand": "Skala",
+        "details": null,
+        "measure": "400ml",
+        "price": 11.9,
+        "createdAt": "2025-08-11T12:52:33.310Z",
+        "updatedAt": null
+    },
+    {
+        "id": "mdu8hkq1xifj0",
+        "name": "Desodorante Rexona 200ml",
+        "category": null,
+        "brand": "Rexona",
+        "details": null,
+        "measure": "200ml",
+        "price": 22,
+        "createdAt": "2025-08-02T12:33:42.697Z",
+        "updatedAt": "2025-08-11T12:56:20.749Z"
     },
     {
         "id": "mdu8fhdph39ib",
@@ -1076,6 +1263,28 @@ export const demoProducts = [
         "price": 7.8,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-02T12:07:57.452Z"
+    },
+    {
+        "id": "me1clnx2n1a09",
+        "name": "Escova dentes adulto",
+        "category": "Higiene e Limpeza",
+        "brand": null,
+        "details": null,
+        "measure": "Adulto",
+        "price": 6,
+        "createdAt": "2025-08-07T12:03:15.158Z",
+        "updatedAt": null
+    },
+    {
+        "id": "me1cmf23mgdya",
+        "name": "Escova dentes infantil",
+        "category": "Higiene e Limpeza",
+        "brand": null,
+        "details": null,
+        "measure": "Infantil",
+        "price": 6,
+        "createdAt": "2025-08-07T12:03:50.331Z",
+        "updatedAt": null
     },
     {
         "id": "demo-79",
@@ -1243,6 +1452,28 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
+        "id": "demo-18",
+        "name": "Genérico garrafinha Generico250 ml Refrigerante",
+        "category": "Bebidas",
+        "brand": null,
+        "details": null,
+        "measure": "250 ml",
+        "price": 2.5,
+        "createdAt": "2025-06-05T03:00:00.000Z",
+        "updatedAt": "2025-08-10T13:16:39.808Z"
+    },
+    {
+        "id": "demo-19",
+        "name": "Genérico lata Generico Refrigerante",
+        "category": "Bebidas",
+        "brand": "Genérico",
+        "details": "lata",
+        "measure": null,
+        "price": 4,
+        "createdAt": "2025-06-05T03:00:00.000Z",
+        "updatedAt": "2025-08-10T13:17:09.060Z"
+    },
+    {
         "id": "demo-88",
         "name": "Goiabada",
         "category": "Mercearia",
@@ -1381,8 +1612,19 @@ export const demoProducts = [
         "brand": null,
         "details": "Caixinha com 3 unidades",
         "measure": "Caixa",
-        "price": 4.5,
+        "price": 4,
         "createdAt": "2025-06-05T03:00:00.000Z",
+        "updatedAt": "2025-08-07T11:56:14.683Z"
+    },
+    {
+        "id": "me1cdgo7fvoa1",
+        "name": "Lâmpada 9W lampada",
+        "category": "Outros",
+        "brand": "Elgin",
+        "details": null,
+        "measure": null,
+        "price": 10,
+        "createdAt": "2025-08-07T11:56:52.519Z",
         "updatedAt": null
     },
     {
@@ -1425,9 +1667,9 @@ export const demoProducts = [
         "brand": "Piracanjuba",
         "details": null,
         "measure": "Pacote",
-        "price": 13.5,
+        "price": 12.5,
         "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
+        "updatedAt": "2025-08-11T12:49:04.913Z"
     },
     {
         "id": "demo-99",
@@ -1452,14 +1694,14 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
-        "id": "demo-114",
-        "name": "Leite Ninho",
-        "category": "Mercearia",
-        "brand": "Ninho",
+        "id": "me740s3pzvkmj",
+        "name": "Leite Ninho Lata 380g",
+        "category": null,
+        "brand": "Nestle",
         "details": null,
-        "measure": null,
+        "measure": "380g",
         "price": 27,
-        "createdAt": "2025-06-05T03:00:00.000Z",
+        "createdAt": "2025-08-11T12:49:40.934Z",
         "updatedAt": null
     },
     {
@@ -1634,9 +1876,9 @@ export const demoProducts = [
         "brand": "Marata",
         "details": null,
         "measure": null,
-        "price": 2,
+        "price": 2.5,
         "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
+        "updatedAt": "2025-08-11T12:45:38.831Z"
     },
     {
         "id": "mdx86tvnk8o3p",
@@ -1714,6 +1956,17 @@ export const demoProducts = [
         "price": 6.6,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-01T23:16:46.300Z"
+    },
+    {
+        "id": "me73zc9bh0iw6",
+        "name": "Mucilon 230g",
+        "category": null,
+        "brand": null,
+        "details": null,
+        "measure": "230g",
+        "price": 15.5,
+        "createdAt": "2025-08-11T12:48:33.743Z",
+        "updatedAt": null
     },
     {
         "id": "mdu79iho740wz",
@@ -1812,6 +2065,17 @@ export const demoProducts = [
         "measure": null,
         "price": 4.2,
         "createdAt": "2025-08-01T21:46:37.656Z",
+        "updatedAt": null
+    },
+    {
+        "id": "me1cg657aiu60",
+        "name": "Palha Aço Bombril",
+        "category": "Outros",
+        "brand": "Bombril",
+        "details": null,
+        "measure": null,
+        "price": 4.2,
+        "createdAt": "2025-08-07T11:58:58.843Z",
         "updatedAt": null
     },
     {
@@ -1958,39 +2222,6 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
-        "id": "mdu8iiroiehx1",
-        "name": "Precificar Band aid bandaid",
-        "category": null,
-        "brand": null,
-        "details": null,
-        "measure": null,
-        "price": 0,
-        "createdAt": "2025-08-02T12:34:26.820Z",
-        "updatedAt": null
-    },
-    {
-        "id": "mdu8j9egfbn7v",
-        "name": "Precificar Cotonetes",
-        "category": null,
-        "brand": "Cotton",
-        "details": null,
-        "measure": null,
-        "price": 0,
-        "createdAt": "2025-08-02T12:35:01.336Z",
-        "updatedAt": null
-    },
-    {
-        "id": "mdu8hkq1xifj0",
-        "name": "Precificar Desodorante Rexona 200ml",
-        "category": null,
-        "brand": "Rexona",
-        "details": null,
-        "measure": "200ml",
-        "price": 0,
-        "createdAt": "2025-08-02T12:33:42.697Z",
-        "updatedAt": "2025-08-02T12:33:59.267Z"
-    },
-    {
         "id": "mdu8jya26u9kx",
         "name": "Precificar Fraldas Médias",
         "category": null,
@@ -2101,72 +2332,6 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
-        "id": "demo-22",
-        "name": "Refrigerante Coca Cola 1L",
-        "category": "Bebidas",
-        "brand": "Coca Cola",
-        "details": null,
-        "measure": "1L",
-        "price": 8,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": "2025-08-01T22:36:11.722Z"
-    },
-    {
-        "id": "demo-15",
-        "name": "Refrigerante Coca Cola 2,5L",
-        "category": "Bebidas",
-        "brand": "Coca Cola",
-        "details": null,
-        "measure": "2,5L",
-        "price": 14,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": "2025-08-01T22:36:39.861Z"
-    },
-    {
-        "id": "demo-16",
-        "name": "Refrigerante Coca Cola 2L",
-        "category": "Bebidas",
-        "brand": "Coca-Cola",
-        "details": null,
-        "measure": "2L",
-        "price": 13,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": "2025-08-01T22:37:07.891Z"
-    },
-    {
-        "id": "demo-17",
-        "name": "Refrigerante Coca Cola garrafinha 250 ml",
-        "category": "Bebidas",
-        "brand": "Coca Cola",
-        "details": null,
-        "measure": "250 ml garrafinha",
-        "price": 4,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": "2025-08-01T22:38:51.289Z"
-    },
-    {
-        "id": "mdtepiqtb9xtm",
-        "name": "Refrigerante Coca Cola lata",
-        "category": "Bebidas",
-        "brand": "Coca Cola",
-        "details": "Lata",
-        "measure": null,
-        "price": 5,
-        "createdAt": "2025-08-01T22:40:04.901Z",
-        "updatedAt": null
-    },
-    {
-        "id": "demo-21",
-        "name": "Refrigerante Genérico 1L",
-        "category": "Bebidas",
-        "brand": null,
-        "details": null,
-        "measure": "1L",
-        "price": 6,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
-    },
-    {
         "id": "demo-14",
         "name": "Refrigerante Genérico 2L",
         "category": "Bebidas",
@@ -2176,28 +2341,6 @@ export const demoProducts = [
         "price": 7.5,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-01T22:40:27.751Z"
-    },
-    {
-        "id": "demo-18",
-        "name": "Refrigerante Genérico garrafinha Generico250 ml",
-        "category": "Bebidas",
-        "brand": null,
-        "details": null,
-        "measure": "250 ml",
-        "price": 2.5,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": "2025-08-01T22:42:06.714Z"
-    },
-    {
-        "id": "demo-19",
-        "name": "Refrigerante Genérico lata Generico",
-        "category": "Bebidas",
-        "brand": "Genérico",
-        "details": "lata",
-        "measure": null,
-        "price": 4,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": "2025-08-01T22:41:26.039Z"
     },
     {
         "id": "mdtf2xv0v14ew",
@@ -2255,26 +2398,26 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
+        "id": "demo-133",
+        "name": "Sabão barra coco",
+        "category": "Limpeza e Higiene",
+        "brand": "Teiu & Santa Maria",
+        "details": null,
+        "measure": "barra",
+        "price": 7.9,
+        "createdAt": "2025-06-05T03:00:00.000Z",
+        "updatedAt": "2025-08-07T12:02:10.985Z"
+    },
+    {
         "id": "demo-132",
         "name": "Sabão barrinha",
         "category": "Limpeza e Higiene",
         "brand": null,
-        "details": null,
+        "details": "De lavar louças",
         "measure": "barra",
-        "price": 4,
+        "price": 3.5,
         "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
-    },
-    {
-        "id": "demo-133",
-        "name": "Sabão barrinha coco",
-        "category": "Limpeza e Higiene",
-        "brand": null,
-        "details": null,
-        "measure": "barra",
-        "price": 5.5,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
+        "updatedAt": "2025-08-07T12:01:19.938Z"
     },
     {
         "id": "demo-134",
@@ -2321,6 +2464,17 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
+        "id": "me748p9ihrwlf",
+        "name": "Sabonete Leite de Rosas",
+        "category": null,
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 6.5,
+        "createdAt": "2025-08-11T12:55:50.503Z",
+        "updatedAt": null
+    },
+    {
         "id": "demo-137",
         "name": "Sal",
         "category": "Mercearia",
@@ -2338,9 +2492,9 @@ export const demoProducts = [
         "brand": null,
         "details": null,
         "measure": null,
-        "price": 3.5,
+        "price": 4,
         "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
+        "updatedAt": "2025-08-11T12:59:00.968Z"
     },
     {
         "id": "demo-139",
@@ -2404,9 +2558,9 @@ export const demoProducts = [
         "brand": "88",
         "details": null,
         "measure": null,
-        "price": 6.8,
+        "price": 7.8,
         "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
+        "updatedAt": "2025-08-11T12:50:37.003Z"
     },
     {
         "id": "mdu7ldaljt2ip",
@@ -2442,6 +2596,17 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
+        "id": "me743goe3znyy",
+        "name": "Tênis pé tenis pe",
+        "category": null,
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 18,
+        "createdAt": "2025-08-11T12:51:46.094Z",
+        "updatedAt": null
+    },
+    {
         "id": "mdu838o8ct9c3",
         "name": "Toalhas umedecidas",
         "category": null,
@@ -2473,6 +2638,28 @@ export const demoProducts = [
         "price": 6,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-02T10:00:29.093Z"
+    },
+    {
+        "id": "me1cf8mjd1ies",
+        "name": "Velas n°10",
+        "category": "Outros",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 13,
+        "createdAt": "2025-08-07T11:58:15.403Z",
+        "updatedAt": null
+    },
+    {
+        "id": "me1ceqqq10znd",
+        "name": "Velas n°8 n°4",
+        "category": "Outros",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 11.5,
+        "createdAt": "2025-08-07T11:57:52.226Z",
+        "updatedAt": null
     },
     {
         "id": "demo-108",
