@@ -99,6 +99,16 @@ export class ProductManager {
         this.saveProducts();
     }
 
+    // Função auxiliar para remover acentos e cedilhas
+    normalizeText(text) {
+        return text
+            .normalize("NFD")               // separa letras de acentos
+            .replace(/[\u0300-\u036f]/g, "") // remove acentos
+            .replace(/ç/g, "c")              // trata o "ç"
+            .replace(/Ç/g, "C")
+            .toLowerCase();
+    }
+
     /**
      * Filtra e busca produtos.
      * @param {string} searchTerm - Termo de busca.
@@ -110,20 +120,22 @@ export class ProductManager {
             return [...this.products]; // Retorna uma cópia para não modificar o array original
         }
 
-        const lowerCaseSearchTerm = searchTerm.toLowerCase();
+        const normalizedSearchTerm = this.normalizeText(searchTerm);
+
         return this.products.filter(product => {
             switch (searchBy) {
                 case 'name':
-                    return product.name && product.name.toLowerCase().includes(lowerCaseSearchTerm);
+                    return product.name && this.normalizeText(product.name).includes(normalizedSearchTerm);
                 case 'category':
-                    return product.category && product.category.toLowerCase().includes(lowerCaseSearchTerm);
+                    return product.category && this.normalizeText(product.category).includes(normalizedSearchTerm);
                 case 'details':
-                    return product.details && product.details.toLowerCase().includes(lowerCaseSearchTerm);
+                    return product.details && this.normalizeText(product.details).includes(normalizedSearchTerm);
                 default:
                     return false;
             }
         });
     }
+
 
     /**
      * Carrega dados de demonstração.
