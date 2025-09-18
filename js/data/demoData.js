@@ -1,27 +1,5 @@
 export const demoProducts = [
     {
-        "id": "mdu8dyrng9rsb",
-        "name": "Absorvente diurno",
-        "category": null,
-        "brand": null,
-        "details": null,
-        "measure": null,
-        "price": 7.5,
-        "createdAt": "2025-08-02T12:30:54.280Z",
-        "updatedAt": null
-    },
-    {
-        "id": "mdu83ub8zprr8",
-        "name": "Absorvente noturno",
-        "category": null,
-        "brand": null,
-        "details": null,
-        "measure": null,
-        "price": 10.9,
-        "createdAt": "2025-08-02T12:23:01.940Z",
-        "updatedAt": null
-    },
-    {
         "id": "mdu9jfpau289u",
         "name": "Acetona",
         "category": "Outros",
@@ -56,7 +34,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-48",
-        "name": "Açúcar Acucar",
+        "name": "Açúcar",
         "category": "Mercearia",
         "brand": null,
         "details": null,
@@ -67,7 +45,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-33",
-        "name": "Agua Água 1,5L",
+        "name": "Água 1,5L",
         "category": "Bebidas",
         "brand": null,
         "details": null,
@@ -78,7 +56,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-35",
-        "name": "Agua Água com gás",
+        "name": "Água com gás",
         "category": "Bebidas",
         "brand": null,
         "details": "Com gás",
@@ -89,7 +67,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-34",
-        "name": "Água Agua sem gás",
+        "name": "Água sem gás",
         "category": "Bebidas",
         "brand": null,
         "details": "Sem gás",
@@ -107,6 +85,17 @@ export const demoProducts = [
         "measure": null,
         "price": 4.9,
         "createdAt": "2025-08-02T13:03:45.611Z",
+        "updatedAt": null
+    },
+    {
+        "id": "mesev3gviowxz",
+        "name": "Álcool",
+        "category": null,
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 14,
+        "createdAt": "2025-08-26T10:36:21.202Z",
         "updatedAt": null
     },
     {
@@ -149,9 +138,9 @@ export const demoProducts = [
         "brand": null,
         "details": null,
         "measure": null,
-        "price": 2,
+        "price": 1.5,
         "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
+        "updatedAt": "2025-08-30T19:28:58.198Z"
     },
     {
         "id": "mdtdtofxdabq0",
@@ -187,39 +176,6 @@ export const demoProducts = [
         "updatedAt": "2025-08-01T22:33:02.100Z"
     },
     {
-        "id": "demo-55",
-        "name": "Bala Canela",
-        "category": "Doces",
-        "brand": null,
-        "details": null,
-        "measure": null,
-        "price": 0.25,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
-    },
-    {
-        "id": "demo-56",
-        "name": "Bala Comum",
-        "category": "Doces",
-        "brand": null,
-        "details": null,
-        "measure": null,
-        "price": 0.15,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
-    },
-    {
-        "id": "demo-57",
-        "name": "Bala Goma (Jujuba)",
-        "category": "Doces",
-        "brand": null,
-        "details": "Balinha goma colorida",
-        "measure": null,
-        "price": 1.5,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
-    },
-    {
         "id": "demo-92",
         "name": "Bala Halls",
         "category": "Doces",
@@ -229,17 +185,6 @@ export const demoProducts = [
         "price": 3.5,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-01T22:27:12.806Z"
-    },
-    {
-        "id": "demo-58",
-        "name": "Bala Hortelã",
-        "category": "Doces",
-        "brand": null,
-        "details": null,
-        "measure": null,
-        "price": 0.2,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
     },
     {
         "id": "mdu8iiroiehx1",
@@ -261,17 +206,6 @@ export const demoProducts = [
         "measure": null,
         "price": 7.9,
         "createdAt": "2025-08-11T12:42:23.269Z",
-        "updatedAt": null
-    },
-    {
-        "id": "demo-59",
-        "name": "Bauru",
-        "category": "Salgados",
-        "brand": null,
-        "details": null,
-        "measure": null,
-        "price": 4,
-        "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": null
     },
     {
@@ -298,24 +232,13 @@ export const demoProducts = [
     },
     {
         "id": "me74by5g4ty9q",
-        "name": "Biscoito Marilan",
+        "name": "Biscoito Marilan / Bolacha",
         "category": null,
         "brand": null,
         "details": null,
         "measure": null,
         "price": 2.5,
         "createdAt": "2025-08-11T12:58:21.988Z",
-        "updatedAt": null
-    },
-    {
-        "id": "demo-62",
-        "name": "Biscoito palito açucarado",
-        "category": "Bolachas e Biscoitos",
-        "brand": null,
-        "details": null,
-        "measure": null,
-        "price": 5,
-        "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": null
     },
     {
@@ -331,7 +254,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-66",
-        "name": "Biscoito Vitarella Maria Tradicional",
+        "name": "Vitarella Maria Tradicional Biscoito / Bolacha",
         "category": "Bolachas e Biscoitos",
         "brand": "Vitarella",
         "details": null,
@@ -342,7 +265,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-67",
-        "name": "Bolacha Brandini Maria",
+        "name": "Bolacha Brandini Maria / Biscoito",
         "category": "Bolachas e Biscoitos",
         "brand": "Brandini",
         "details": null,
@@ -353,14 +276,14 @@ export const demoProducts = [
     },
     {
         "id": "demo-65",
-        "name": "Bolacha Maizena",
+        "name": "Bolacha Maizena / Biscoito",
         "category": "Bolachas e Biscoitos",
         "brand": "Vitarella",
         "details": null,
         "measure": null,
         "price": 8.7,
         "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": "2025-08-01T22:10:57.338Z"
+        "updatedAt": "2025-09-07T14:35:28.828Z"
     },
     {
         "id": "mdtdeyihcnfcc",
@@ -407,30 +330,8 @@ export const demoProducts = [
         "updatedAt": "2025-08-01T23:36:23.066Z"
     },
     {
-        "id": "demo-69",
-        "name": "Bolo milho (fatia)",
-        "category": "Lanches",
-        "brand": null,
-        "details": null,
-        "measure": "Fatia",
-        "price": 4,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
-    },
-    {
-        "id": "demo-74",
-        "name": "Bombom (caixa)",
-        "category": "Doces",
-        "brand": null,
-        "details": null,
-        "measure": null,
-        "price": 17,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
-    },
-    {
         "id": "mdtevqkwg7z04",
-        "name": "Brahma Brama",
+        "name": "Cerveja Brahma",
         "category": "Bebidas",
         "brand": "Brahma Brama",
         "details": null,
@@ -441,7 +342,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtewtg95jvht",
-        "name": "Brahma Brama Zero Alcool",
+        "name": "Cerveja Brahma Zero Alcool",
         "category": "Bebidas",
         "brand": "Brahma Brama",
         "details": "Zero Alcool",
@@ -452,7 +353,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-70",
-        "name": "Broa (pacote)",
+        "name": "Pacote Broas",
         "category": "Bolachas e Biscoitos",
         "brand": null,
         "details": null,
@@ -474,7 +375,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-110",
-        "name": "Café pacote cafe",
+        "name": "Pacote Café Moído",
         "category": "Mercearia",
         "brand": null,
         "details": null,
@@ -540,7 +441,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtfrg1i7hn67",
-        "name": "Carne Hambúrguer",
+        "name": "Carne p/ Hambúrguer",
         "category": "Frios",
         "brand": null,
         "details": null,
@@ -573,7 +474,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-102",
-        "name": "Catchup Ketchup maior",
+        "name": "Ketchup maior",
         "category": "Mercearia",
         "brand": null,
         "details": "Garrafa maior",
@@ -584,7 +485,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtdyqxina3ln",
-        "name": "Catchup Ketchup menor",
+        "name": "Ketchup menor",
         "category": "Mercearia",
         "brand": null,
         "details": "Garrafa menor",
@@ -602,17 +503,6 @@ export const demoProducts = [
         "measure": null,
         "price": 14.5,
         "createdAt": "2025-08-02T12:14:23.501Z",
-        "updatedAt": null
-    },
-    {
-        "id": "demo-1",
-        "name": "Cerveja 600 ml",
-        "category": "Bebidas",
-        "brand": null,
-        "details": null,
-        "measure": "600 ml",
-        "price": 6.5,
-        "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": null
     },
     {
@@ -644,9 +534,9 @@ export const demoProducts = [
         "brand": "Itaipava",
         "details": "Latão",
         "measure": null,
-        "price": 6,
+        "price": 6.5,
         "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": "2025-08-01T22:42:51.662Z"
+        "updatedAt": "2025-09-16T11:31:49.739Z"
     },
     {
         "id": "demo-10",
@@ -682,48 +572,15 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
-        "id": "demo-5",
-        "name": "Cerveja latão",
-        "category": "Bebidas",
-        "brand": null,
-        "details": "Latão",
-        "measure": null,
-        "price": 6,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
-    },
-    {
-        "id": "demo-2",
-        "name": "Cerveja latinha",
-        "category": "Bebidas",
-        "brand": null,
-        "details": "Latinha",
-        "measure": null,
-        "price": 4,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
-    },
-    {
-        "id": "demo-3",
-        "name": "Cerveja Petra",
-        "category": "Bebidas",
-        "brand": "Petra",
-        "details": null,
-        "measure": null,
-        "price": 5,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": "2025-08-01T22:58:56.811Z"
-    },
-    {
         "id": "demo-6",
         "name": "Cerveja Skol latão",
         "category": "Bebidas",
         "brand": "Skol",
         "details": "Latão",
         "measure": null,
-        "price": 6.5,
+        "price": 7,
         "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": "2025-08-01T22:43:29.532Z"
+        "updatedAt": "2025-09-16T11:31:29.379Z"
     },
     {
         "id": "demo-7",
@@ -760,14 +617,14 @@ export const demoProducts = [
     },
     {
         "id": "demo-146",
-        "name": "Chinela / Sandália",
+        "name": "Chinelo / Sandália",
         "category": "Calçados",
         "brand": null,
         "details": null,
         "measure": null,
-        "price": 18,
+        "price": 20,
         "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
+        "updatedAt": "2025-09-18T00:02:05.865Z"
     },
     {
         "id": "demo-76",
@@ -793,7 +650,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtczejppa8e0",
-        "name": "Chocolate Caixa",
+        "name": "Caixa Chocolate",
         "category": "Doces",
         "brand": "Garoto/Lacta",
         "details": null,
@@ -804,7 +661,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtc8lh9l8nxm",
-        "name": "Chocolate Marilan",
+        "name": "Pacote Chocolate Marilan",
         "category": "Doces",
         "brand": "Marilan",
         "details": null,
@@ -815,7 +672,7 @@ export const demoProducts = [
     },
     {
         "id": "mdte78ja4boip",
-        "name": "Choquito Xoquito",
+        "name": "Choquito",
         "category": "Doces",
         "brand": "Choquito",
         "details": null,
@@ -848,9 +705,9 @@ export const demoProducts = [
     },
     {
         "id": "demo-22",
-        "name": "Coca Cola 1L Refrigerante",
+        "name": "Coca-Cola 1L Refrigerante",
         "category": "Bebidas",
-        "brand": "Coca Cola",
+        "brand": "Coca-Cola",
         "details": null,
         "measure": "1L",
         "price": 8,
@@ -859,9 +716,9 @@ export const demoProducts = [
     },
     {
         "id": "demo-15",
-        "name": "Coca Cola 2,5L Refrigerante",
+        "name": "Coca-Cola 2,5L Refrigerante",
         "category": "Bebidas",
-        "brand": "Coca Cola",
+        "brand": "Coca-Cola",
         "details": null,
         "measure": "2,5L",
         "price": 14,
@@ -870,7 +727,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-16",
-        "name": "Coca Cola 2L Refrigerante",
+        "name": "Coca-Cola 2L Refrigerante",
         "category": "Bebidas",
         "brand": "Coca-Cola",
         "details": null,
@@ -881,9 +738,9 @@ export const demoProducts = [
     },
     {
         "id": "demo-17",
-        "name": "Coca Cola garrafinha 250 ml Refrigerante",
+        "name": "Coca-Cola garrafinha 250 ml Refrigerante",
         "category": "Bebidas",
-        "brand": "Coca Cola",
+        "brand": "Coca-Cola",
         "details": null,
         "measure": "250 ml garrafinha",
         "price": 4,
@@ -892,9 +749,9 @@ export const demoProducts = [
     },
     {
         "id": "mdtepiqtb9xtm",
-        "name": "Coca Cola lata Refrigerante",
+        "name": "Coca-Cola lata Refrigerante",
         "category": "Bebidas",
-        "brand": "Coca Cola",
+        "brand": "Coca-Cola",
         "details": "Lata",
         "measure": null,
         "price": 5,
@@ -946,14 +803,14 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
-        "id": "demo-40",
-        "name": "Conhaque à dose",
-        "category": "Bebidas",
+        "id": "meq8rho3xv7bs",
+        "name": "Copos descartáveis",
+        "category": null,
         "brand": null,
-        "details": "Venda à dose",
-        "measure": "Dose",
-        "price": 4,
-        "createdAt": "2025-06-05T03:00:00.000Z",
+        "details": null,
+        "measure": null,
+        "price": 9,
+        "createdAt": "2025-08-24T22:10:02.932Z",
         "updatedAt": null
     },
     {
@@ -1079,7 +936,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtcmd06iqe9i",
-        "name": "Creme/Maionese Pentear",
+        "name": "Creme / Maionese Pentear",
         "category": null,
         "brand": "Skala",
         "details": null,
@@ -1090,7 +947,7 @@ export const demoProducts = [
     },
     {
         "id": "mdu77fj536g5z",
-        "name": "Cupcake cup kake",
+        "name": "Cupcake",
         "category": "Doces",
         "brand": null,
         "details": null,
@@ -1156,7 +1013,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtfb4igg5zdy",
-        "name": "Dipirona Caixa",
+        "name": "Caixa Dipirona",
         "category": "Farmácia",
         "brand": null,
         "details": null,
@@ -1332,7 +1189,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtfx5y6omx0e",
-        "name": "Filé de Peixe File",
+        "name": "Filé de Peixe",
         "category": "Frios",
         "brand": null,
         "details": null,
@@ -1343,7 +1200,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-81",
-        "name": "Filé File de peito de frango",
+        "name": "Filé de peito de frango",
         "category": "Frios",
         "brand": null,
         "details": "Já pesado",
@@ -1354,18 +1211,18 @@ export const demoProducts = [
     },
     {
         "id": "mdteindudb8cw",
-        "name": "Fósforo Fosforo",
+        "name": "Fósforo Unidade",
         "category": "Outros",
         "brand": null,
         "details": null,
-        "measure": null,
+        "measure": "Unidade",
         "price": 1,
         "createdAt": "2025-08-01T22:34:44.322Z",
         "updatedAt": null
     },
     {
         "id": "mdu7zowhuhwkm",
-        "name": "Fralda Grandes",
+        "name": "Fraldas grandes",
         "category": null,
         "brand": null,
         "details": null,
@@ -1376,7 +1233,7 @@ export const demoProducts = [
     },
     {
         "id": "mduct3gmi5u9n",
-        "name": "Fraldas media",
+        "name": "Fraldas medias",
         "category": null,
         "brand": null,
         "details": null,
@@ -1398,7 +1255,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-85",
-        "name": "Frango a Passarinho",
+        "name": "Frango à passarinho",
         "category": "Frios",
         "brand": null,
         "details": "Pesar",
@@ -1453,7 +1310,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-18",
-        "name": "Genérico garrafinha Generico250 ml Refrigerante",
+        "name": "Refri Genérico 250 ml garrafinha",
         "category": "Bebidas",
         "brand": null,
         "details": null,
@@ -1464,7 +1321,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-19",
-        "name": "Genérico lata Generico Refrigerante",
+        "name": "Refri Genérico lata",
         "category": "Bebidas",
         "brand": "Genérico",
         "details": "lata",
@@ -1486,7 +1343,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-91",
-        "name": "Goma fresca de tapioca Barra",
+        "name": "Barra Goma fresca",
         "category": "Mercearia",
         "brand": null,
         "details": null,
@@ -1540,19 +1397,8 @@ export const demoProducts = [
         "updatedAt": "2025-08-01T22:54:36.461Z"
     },
     {
-        "id": "demo-26",
-        "name": "Iogurte Chupetinha",
-        "category": "Bebidas",
-        "brand": null,
-        "details": "Chupetinha",
-        "measure": "Chupeta",
-        "price": 1.5,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": "2025-08-01T22:55:03.331Z"
-    },
-    {
         "id": "demo-23",
-        "name": "Iogurte Yogurte 1L",
+        "name": "Iogurte 1L",
         "category": "Bebidas",
         "brand": null,
         "details": null,
@@ -1563,7 +1409,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-24",
-        "name": "Iogurte Yogurte 450 ml",
+        "name": "Iogurte 450 ml",
         "category": "Bebidas",
         "brand": null,
         "details": null,
@@ -1673,7 +1519,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-99",
-        "name": "Leite Integral Natville (caixa)",
+        "name": "Caixa Leite Integral Natville",
         "category": "Mercearia",
         "brand": "Natville",
         "details": null,
@@ -1695,7 +1541,7 @@ export const demoProducts = [
     },
     {
         "id": "me740s3pzvkmj",
-        "name": "Leite Ninho Lata 380g",
+        "name": "Lata Leite Ninho 380g",
         "category": null,
         "brand": "Nestle",
         "details": null,
@@ -1706,7 +1552,7 @@ export const demoProducts = [
     },
     {
         "id": "mdu82jzt4r6or",
-        "name": "Lenços descartáveis lencos",
+        "name": "Lenços descartáveis",
         "category": null,
         "brand": null,
         "details": null,
@@ -1849,22 +1695,11 @@ export const demoProducts = [
     },
     {
         "id": "demo-51",
-        "name": "Milho para pipoca",
+        "name": "Milho p/ pipoca",
         "category": "Mercearia",
         "brand": "Kicaldo",
         "details": null,
         "measure": "500g",
-        "price": 6.5,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
-    },
-    {
-        "id": "demo-117",
-        "name": "Milho para pipoca",
-        "category": "Mercearia",
-        "brand": null,
-        "details": null,
-        "measure": null,
         "price": 6.5,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": null
@@ -1879,17 +1714,6 @@ export const demoProducts = [
         "price": 2.5,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-11T12:45:38.831Z"
-    },
-    {
-        "id": "mdx86tvnk8o3p",
-        "name": "Misto quente (só presunto)",
-        "category": "Lanches",
-        "brand": null,
-        "details": null,
-        "measure": null,
-        "price": 5,
-        "createdAt": "2025-08-04T14:48:39.875Z",
-        "updatedAt": null
     },
     {
         "id": "demo-125",
@@ -1936,26 +1760,15 @@ export const demoProducts = [
         "updatedAt": "2025-08-02T12:07:11.991Z"
     },
     {
-        "id": "demo-42",
-        "name": "Montila à dose",
-        "category": null,
-        "brand": null,
-        "details": "Venda à dose",
-        "measure": "Dose",
-        "price": 4,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
-    },
-    {
         "id": "demo-87",
         "name": "Mortadela",
         "category": "Frios",
         "brand": null,
         "details": null,
         "measure": "Rolo pequeno",
-        "price": 6.6,
+        "price": 6.5,
         "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": "2025-08-01T23:16:46.300Z"
+        "updatedAt": "2025-09-07T14:42:35.130Z"
     },
     {
         "id": "me73zc9bh0iw6",
@@ -1992,7 +1805,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtduvjocuihp",
-        "name": "Óleo Soya Oleo",
+        "name": "Óleo Soya",
         "category": "Mercearia",
         "brand": "Soya",
         "details": "Garrafa",
@@ -2003,7 +1816,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-119",
-        "name": "Ovos (cartela)",
+        "name": "Cartela Ovos",
         "category": "Mercearia",
         "brand": null,
         "details": null,
@@ -2014,7 +1827,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-118",
-        "name": "Ovos (dúzia)",
+        "name": "Dúzia Ovos",
         "category": "Mercearia",
         "brand": null,
         "details": null,
@@ -2025,7 +1838,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-121",
-        "name": "Paçoca cocada amendoim",
+        "name": "Cocada amendoim",
         "category": "Doces",
         "brand": null,
         "details": null,
@@ -2036,7 +1849,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-120",
-        "name": "Paçoca Pacoca",
+        "name": "Paçoca",
         "category": "Doces",
         "brand": null,
         "details": null,
@@ -2057,17 +1870,6 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
-        "id": "mdtcss0of07xk",
-        "name": "Palha Aço Bom Bril",
-        "category": "Utilidades",
-        "brand": "Bom Bril",
-        "details": null,
-        "measure": null,
-        "price": 4.2,
-        "createdAt": "2025-08-01T21:46:37.656Z",
-        "updatedAt": null
-    },
-    {
         "id": "me1cg657aiu60",
         "name": "Palha Aço Bombril",
         "category": "Outros",
@@ -2080,7 +1882,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtcjdq08l61a",
-        "name": "Palito Dente",
+        "name": "Caixa Palitos Dente",
         "category": "Utilidades",
         "brand": null,
         "details": null,
@@ -2091,7 +1893,7 @@ export const demoProducts = [
     },
     {
         "id": "mdu4i47tic877",
-        "name": "Pão com manteiga pao",
+        "name": "Pão com manteiga",
         "category": "Lanche",
         "brand": null,
         "details": null,
@@ -2102,7 +1904,7 @@ export const demoProducts = [
     },
     {
         "id": "mdx826s5eif46",
-        "name": "Pão com ovo pao",
+        "name": "Pão com ovo",
         "category": "Lanche",
         "brand": null,
         "details": null,
@@ -2145,28 +1947,6 @@ export const demoProducts = [
         "updatedAt": "2025-08-01T21:35:51.528Z"
     },
     {
-        "id": "mdteegsvbbxsz",
-        "name": "Pé de Moleque Pe",
-        "category": "Doces",
-        "brand": null,
-        "details": null,
-        "measure": null,
-        "price": 2.5,
-        "createdAt": "2025-08-01T22:31:29.167Z",
-        "updatedAt": null
-    },
-    {
-        "id": "demo-126",
-        "name": "Pipoca pacotinho",
-        "category": "Doces",
-        "brand": null,
-        "details": null,
-        "measure": null,
-        "price": 2,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
-    },
-    {
         "id": "demo-127",
         "name": "Pirulito grande",
         "category": "Doces",
@@ -2179,7 +1959,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtg8ygtv14hc",
-        "name": "Poupa Acerola",
+        "name": "Polpa Acerola",
         "category": "Outros",
         "brand": null,
         "details": null,
@@ -2190,7 +1970,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtg7orfbc7bh",
-        "name": "Poupa Manga",
+        "name": "Polpa Manga",
         "category": "Outros",
         "brand": null,
         "details": null,
@@ -2201,7 +1981,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtga4rf4ir8f",
-        "name": "Poupa Maracujá",
+        "name": "Polpa Maracujá",
         "category": "Outros",
         "brand": null,
         "details": null,
@@ -2212,7 +1992,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtg9k550is33",
-        "name": "Poupa Morango",
+        "name": "Polpa Morango",
         "category": "Outros",
         "brand": null,
         "details": null,
@@ -2256,7 +2036,7 @@ export const demoProducts = [
     },
     {
         "id": "mdteb6x9d5gyc",
-        "name": "Prestigio Prestígio",
+        "name": "Prestígio",
         "category": "Doces",
         "brand": null,
         "details": null,
@@ -2278,9 +2058,9 @@ export const demoProducts = [
     },
     {
         "id": "mdtehkpl2a8yc",
-        "name": "Presunto Pif Paf",
+        "name": "Presunto Pif-Paf",
         "category": "Frios",
-        "brand": null,
+        "brand": "Pif-Paf",
         "details": null,
         "measure": null,
         "price": 8,
@@ -2289,7 +2069,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-130",
-        "name": "Pururuca / Pelinha (pacote transparente)",
+        "name": "Precificar Pururuca / Pelinha (pacote transparente)",
         "category": "Salgados",
         "brand": null,
         "details": null,
@@ -2300,7 +2080,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtef08zit8kq",
-        "name": "Quebra Queixo",
+        "name": "Quebra-queixo",
         "category": "Doces",
         "brand": null,
         "details": null,
@@ -2333,7 +2113,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-14",
-        "name": "Refrigerante Genérico 2L",
+        "name": "Refri Genérico 2L",
         "category": "Bebidas",
         "brand": null,
         "details": null,
@@ -2344,7 +2124,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtf2xv0v14ew",
-        "name": "Refrigerante Guaraná 1L",
+        "name": "Refri Guaraná 1L",
         "category": "Bebidas",
         "brand": "Guaraná",
         "details": null,
@@ -2355,7 +2135,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-20",
-        "name": "Refrigerante H2Oh",
+        "name": "Refri H2Oh",
         "category": "Bebidas",
         "brand": "H2oh",
         "details": null,
@@ -2366,7 +2146,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtf63y35w9s2",
-        "name": "Refrigerante Pepsi 1L",
+        "name": "Refri Pepsi 1L",
         "category": "Bebidas",
         "brand": "Pepsi",
         "details": null,
@@ -2377,7 +2157,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtf59mqzs2y9",
-        "name": "Refrigerante Sukita 1L",
+        "name": "Refri Sukita 1L",
         "category": "Bebidas",
         "brand": "Sukita",
         "details": null,
@@ -2399,7 +2179,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-133",
-        "name": "Sabão barra coco",
+        "name": "Barra Sabão coco",
         "category": "Limpeza e Higiene",
         "brand": "Teiu & Santa Maria",
         "details": null,
@@ -2410,7 +2190,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-132",
-        "name": "Sabão barrinha",
+        "name": "Barrinha Sabão",
         "category": "Limpeza e Higiene",
         "brand": null,
         "details": "De lavar louças",
@@ -2520,7 +2300,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-129",
-        "name": "Salgadinho Pururuca / Pelinha ",
+        "name": "Precificar Salgadinho Pururuca / Pelinha ",
         "category": "Salgados",
         "brand": null,
         "details": null,
@@ -2530,19 +2310,8 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
-        "id": "mdtgqz9wl7wc9",
-        "name": "Salgados (qualquer)",
-        "category": "Salgados",
-        "brand": null,
-        "details": null,
-        "measure": null,
-        "price": 5,
-        "createdAt": "2025-08-01T23:37:12.212Z",
-        "updatedAt": null
-    },
-    {
         "id": "demo-141",
-        "name": "Salsicha",
+        "name": "Precificar Salsicha",
         "category": "Frios",
         "brand": null,
         "details": null,
@@ -2552,8 +2321,30 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
+        "id": "mevdi6iuq74k2",
+        "name": "Precificar Salsicha KG",
+        "category": null,
+        "brand": null,
+        "details": null,
+        "measure": "1kg",
+        "price": 22,
+        "createdAt": "2025-08-28T12:21:37.542Z",
+        "updatedAt": null
+    },
+    {
+        "id": "meq1tct2x0xa6",
+        "name": "Precificar Salsicha Pacote Inteiro",
+        "category": null,
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 48,
+        "createdAt": "2025-08-24T18:55:32.630Z",
+        "updatedAt": null
+    },
+    {
         "id": "demo-107",
-        "name": "Sardinha 88",
+        "name": "Precificar Sardinha 88",
         "category": "Mercearia",
         "brand": "88",
         "details": null,
@@ -2564,7 +2355,7 @@ export const demoProducts = [
     },
     {
         "id": "mdu7ldaljt2ip",
-        "name": "Sazon",
+        "name": "Precificar Sazon",
         "category": "Temperos",
         "brand": null,
         "details": null,
@@ -2575,7 +2366,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtfeg3pxk1ik",
-        "name": "Sonrizal",
+        "name": "Precificar Sonrisal",
         "category": "Farmácia",
         "brand": null,
         "details": null,
@@ -2585,8 +2376,30 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
+        "id": "meihwgi87kg03",
+        "name": "Suco Del-Valle 200ml",
+        "category": null,
+        "brand": "Dell-Valle",
+        "details": null,
+        "measure": null,
+        "price": 3.5,
+        "createdAt": "2025-08-19T12:03:41.840Z",
+        "updatedAt": null
+    },
+    {
+        "id": "meihxl6k26hde",
+        "name": "Suco Del-Valle 450ml garrafinha",
+        "category": null,
+        "brand": "Dell-Valle",
+        "details": null,
+        "measure": "450ml",
+        "price": 5.8,
+        "createdAt": "2025-08-19T12:04:34.556Z",
+        "updatedAt": null
+    },
+    {
         "id": "mdtd0l63o3vxx",
-        "name": "Suco Marata Cartão",
+        "name": "Cartão Suco Marata",
         "category": "Outros",
         "brand": "Marata",
         "details": "Cartão",
@@ -2597,7 +2410,7 @@ export const demoProducts = [
     },
     {
         "id": "me743goe3znyy",
-        "name": "Tênis pé tenis pe",
+        "name": "Desodorante Tênis pé",
         "category": null,
         "brand": null,
         "details": null,
@@ -2629,15 +2442,15 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
-        "id": "demo-142",
-        "name": "Torta Doce (Chocolate ou Limão)",
-        "category": "Lanches",
+        "id": "mebg3ux9g5fop",
+        "name": "Torta doce inteira bolo confeitado inteiro",
+        "category": null,
         "brand": null,
         "details": null,
-        "measure": "Fatia",
-        "price": 6,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": "2025-08-02T10:00:29.093Z"
+        "measure": null,
+        "price": 56,
+        "createdAt": "2025-08-14T13:39:04.653Z",
+        "updatedAt": null
     },
     {
         "id": "me1cf8mjd1ies",
@@ -2671,5 +2484,27 @@ export const demoProducts = [
         "price": 3.5,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": null
+    },
+    {
+        "id": "mdu8dyrng9rsb",
+        "name": "Z Absorvente diurno",
+        "category": null,
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 7.5,
+        "createdAt": "2025-08-02T12:30:54.280Z",
+        "updatedAt": "2025-08-26T16:15:51.019Z"
+    },
+    {
+        "id": "mdu83ub8zprr8",
+        "name": "Z Absorvente noturno",
+        "category": null,
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 10.9,
+        "createdAt": "2025-08-02T12:23:01.940Z",
+        "updatedAt": "2025-08-26T16:16:03.765Z"
     }
 ];
