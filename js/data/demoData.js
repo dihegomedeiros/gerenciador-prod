@@ -50,7 +50,7 @@ export const demoProducts = [
         "brand": null,
         "details": null,
         "measure": "1,5L",
-        "price": 4,
+        "price": 4.5,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-01T22:55:45.141Z"
     },
@@ -133,7 +133,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-53",
-        "name": "Amendoim",
+        "name": "Amendoim Processado",
         "category": "Salgados",
         "brand": null,
         "details": null,
@@ -160,7 +160,7 @@ export const demoProducts = [
         "brand": null,
         "details": null,
         "measure": "Frasco",
-        "price": 39,
+        "price": 49,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-01T22:16:58.786Z"
     },
@@ -188,7 +188,18 @@ export const demoProducts = [
     },
     {
         "id": "mdu8iiroiehx1",
-        "name": "Band Aid bandaid",
+        "name": "Band-Aid (unidade)",
+        "category": null,
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 1.5,
+        "createdAt": "2025-08-02T12:34:26.820Z",
+        "updatedAt": "2025-08-11T12:57:07.417Z"
+    },
+    {
+        "id": "mdu8iiroiehx1",
+        "name": "Band-Aid (caixa)",
         "category": null,
         "brand": null,
         "details": null,
@@ -231,17 +242,6 @@ export const demoProducts = [
         "updatedAt": "2025-08-01T21:50:33.598Z"
     },
     {
-        "id": "me74by5g4ty9q",
-        "name": "Biscoito Marilan / Bolacha",
-        "category": null,
-        "brand": null,
-        "details": null,
-        "measure": null,
-        "price": 2.5,
-        "createdAt": "2025-08-11T12:58:21.988Z",
-        "updatedAt": null
-    },
-    {
         "id": "mdtdmdgr3w9xk",
         "name": "Biscoito Rosquinha",
         "category": "Biscoitos",
@@ -254,7 +254,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-66",
-        "name": "Vitarella Maria Tradicional Biscoito / Bolacha",
+        "name": "Bolacha Brandini Maria Vitarella / Biscoito",
         "category": "Bolachas e Biscoitos",
         "brand": "Vitarella",
         "details": null,
@@ -262,17 +262,6 @@ export const demoProducts = [
         "price": 8.5,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": null
-    },
-    {
-        "id": "demo-67",
-        "name": "Bolacha Brandini Maria / Biscoito",
-        "category": "Bolachas e Biscoitos",
-        "brand": "Brandini",
-        "details": null,
-        "measure": "Pacote",
-        "price": 8.5,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": "2025-08-01T22:11:49.022Z"
     },
     {
         "id": "demo-65",
@@ -319,24 +308,13 @@ export const demoProducts = [
         "updatedAt": "2025-08-01T22:12:15.165Z"
     },
     {
-        "id": "demo-68",
-        "name": "Bolo inteiro pequeno",
-        "category": "Lanches",
-        "brand": null,
-        "details": null,
-        "measure": "Inteiro",
-        "price": 12,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": "2025-08-01T23:36:23.066Z"
-    },
-    {
         "id": "mdtevqkwg7z04",
         "name": "Cerveja Brahma",
         "category": "Bebidas",
         "brand": "Brahma Brama",
         "details": null,
         "measure": null,
-        "price": 5,
+        "price": 6,
         "createdAt": "2025-08-01T22:44:54.992Z",
         "updatedAt": null
     },
@@ -408,7 +386,7 @@ export const demoProducts = [
     },
     {
         "id": "mdu7hcrm505rk",
-        "name": "Canela",
+        "name": "Canela (pau)",
         "category": "Outros",
         "brand": null,
         "details": null,
@@ -446,7 +424,7 @@ export const demoProducts = [
         "brand": null,
         "details": null,
         "measure": null,
-        "price": 2,
+        "price": 2.5,
         "createdAt": "2025-08-01T23:09:34.326Z",
         "updatedAt": null
     },
@@ -550,22 +528,11 @@ export const demoProducts = [
         "updatedAt": "2025-08-01T22:42:36.252Z"
     },
     {
-        "id": "demo-13",
-        "name": "Cerveja Itaipava sem álcool",
-        "category": "Bebidas",
-        "brand": "Itaipava",
-        "details": "Sem álcool",
-        "measure": null,
-        "price": 5,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
-    },
-    {
         "id": "demo-8",
-        "name": "Cerveja Itaipava Zero",
+        "name": "Cerveja Itaipava Zero Álcool",
         "category": "Bebidas",
         "brand": "Itaipava",
-        "details": "Zero",
+        "details": "Zero Álcool",
         "measure": null,
         "price": 5,
         "createdAt": "2025-06-05T03:00:00.000Z",
@@ -589,7 +556,7 @@ export const demoProducts = [
         "brand": "Skol",
         "details": "Latinha",
         "measure": null,
-        "price": 5,
+        "price": 6,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-01T22:43:16.840Z"
     },
@@ -625,28 +592,6 @@ export const demoProducts = [
         "price": 20,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-09-18T00:02:05.865Z"
-    },
-    {
-        "id": "demo-76",
-        "name": "Chocolate (barrinha)",
-        "category": "Doces",
-        "brand": null,
-        "details": null,
-        "measure": "Barrinha",
-        "price": 3,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
-    },
-    {
-        "id": "demo-71",
-        "name": "Chocolate Cacauzinho",
-        "category": "Doces",
-        "brand": "Cacauzinho",
-        "details": null,
-        "measure": null,
-        "price": 1.5,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
     },
     {
         "id": "mdtczejppa8e0",
@@ -710,7 +655,7 @@ export const demoProducts = [
         "brand": "Coca-Cola",
         "details": null,
         "measure": "1L",
-        "price": 8,
+        "price": 9,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-06T11:43:54.746Z"
     },
@@ -853,7 +798,7 @@ export const demoProducts = [
         "brand": null,
         "details": null,
         "measure": "Kg",
-        "price": 17,
+        "price": 17.5,
         "createdAt": "2025-08-01T23:11:12.478Z",
         "updatedAt": null
     },
@@ -935,17 +880,6 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
-        "id": "mdtcmd06iqe9i",
-        "name": "Creme / Maionese Pentear",
-        "category": null,
-        "brand": "Skala",
-        "details": null,
-        "measure": "Pote 1000g",
-        "price": 14,
-        "createdAt": "2025-08-01T21:41:38.263Z",
-        "updatedAt": null
-    },
-    {
         "id": "mdu77fj536g5z",
         "name": "Cupcake",
         "category": "Doces",
@@ -957,30 +891,8 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
-        "id": "mdu8gkfax12hx",
-        "name": "Desodorante Axe 90g",
-        "category": null,
-        "brand": "Axe",
-        "details": null,
-        "measure": "90g / 152ml",
-        "price": 22,
-        "createdAt": "2025-08-02T12:32:55.654Z",
-        "updatedAt": null
-    },
-    {
-        "id": "me744h3ybobni",
-        "name": "Desodorante corporal Skala",
-        "category": null,
-        "brand": "Skala",
-        "details": null,
-        "measure": "400ml",
-        "price": 11.9,
-        "createdAt": "2025-08-11T12:52:33.310Z",
-        "updatedAt": null
-    },
-    {
         "id": "mdu8hkq1xifj0",
-        "name": "Desodorante Rexona 200ml",
+        "name": "Desodorante 200ml",
         "category": null,
         "brand": "Rexona",
         "details": null,
@@ -991,7 +903,7 @@ export const demoProducts = [
     },
     {
         "id": "mdu8fhdph39ib",
-        "name": "Desodorante rollon 50ml",
+        "name": "Desodorante 50ml / 60ml",
         "category": null,
         "brand": null,
         "details": null,
@@ -1013,7 +925,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtfb4igg5zdy",
-        "name": "Caixa Dipirona",
+        "name": "Caixa Dipirona líquida",
         "category": "Farmácia",
         "brand": null,
         "details": null,
@@ -1024,12 +936,12 @@ export const demoProducts = [
     },
     {
         "id": "mdtfh96lo0rjj",
-        "name": "Dipirona Unidade",
+        "name": "Dipirona comprimido",
         "category": "Farmácia",
         "brand": null,
         "details": null,
         "measure": "Unidade",
-        "price": 1,
+        "price": 2,
         "createdAt": "2025-08-01T23:01:38.877Z",
         "updatedAt": null
     },
@@ -1276,17 +1188,6 @@ export const demoProducts = [
         "updatedAt": "2025-08-01T23:13:10.758Z"
     },
     {
-        "id": "demo-84",
-        "name": "Frango temperado Avinor",
-        "category": "Frios",
-        "brand": "Avinor",
-        "details": null,
-        "measure": null,
-        "price": null,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": null
-    },
-    {
         "id": "mdu79zzosr8cd",
         "name": "Gelatina",
         "category": "Outros",
@@ -1295,17 +1196,6 @@ export const demoProducts = [
         "measure": null,
         "price": 3.6,
         "createdAt": "2025-08-02T11:59:49.620Z",
-        "updatedAt": null
-    },
-    {
-        "id": "demo-98",
-        "name": "Geléia de Framboesa",
-        "category": "Mercearia",
-        "brand": null,
-        "details": null,
-        "measure": null,
-        "price": 22,
-        "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": null
     },
     {
@@ -1420,7 +1310,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtg47gblguvk",
-        "name": "Isotônico Powerade Power Ade",
+        "name": "Isotônico Power-Ade",
         "category": "Bebidas",
         "brand": null,
         "details": null,
@@ -1436,7 +1326,7 @@ export const demoProducts = [
         "brand": "Italakinho",
         "details": null,
         "measure": "200 ml",
-        "price": 2.5,
+        "price": 3,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-01T23:20:31.391Z"
     },
@@ -1546,7 +1436,7 @@ export const demoProducts = [
         "brand": "Nestle",
         "details": null,
         "measure": "380g",
-        "price": 27,
+        "price": 29.9,
         "createdAt": "2025-08-11T12:49:40.934Z",
         "updatedAt": null
     },
@@ -1581,17 +1471,6 @@ export const demoProducts = [
         "measure": "Kg",
         "price": 35,
         "createdAt": "2025-08-01T23:06:21.067Z",
-        "updatedAt": null
-    },
-    {
-        "id": "demo-115",
-        "name": "Linguiça mineira",
-        "category": "Frios",
-        "brand": null,
-        "details": "Pesar",
-        "measure": "O quilo",
-        "price": 27,
-        "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": null
     },
     {
@@ -1645,7 +1524,7 @@ export const demoProducts = [
         "brand": "Maratinho",
         "details": null,
         "measure": "200 ml",
-        "price": 2.5,
+        "price": 3,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-01T23:19:57.062Z"
     },
@@ -1706,7 +1585,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-82",
-        "name": "Miojo Marata Lámen",
+        "name": "Macarrão instantâneo Marata Lámen / Miojo",
         "category": "Mercearia",
         "brand": "Marata",
         "details": null,
@@ -1799,7 +1678,7 @@ export const demoProducts = [
         "brand": "Nescau",
         "details": null,
         "measure": "180 ml",
-        "price": 3,
+        "price": 3.5,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-01T23:20:46.084Z"
     },
@@ -1822,6 +1701,17 @@ export const demoProducts = [
         "details": null,
         "measure": "Cartela",
         "price": 30,
+        "createdAt": "2025-06-05T03:00:00.000Z",
+        "updatedAt": "2025-08-01T22:24:30.777Z"
+    },
+    {
+        "id": "demo-119",
+        "name": "Ovo (unidade)",
+        "category": "Mercearia",
+        "brand": null,
+        "details": null,
+        "measure": "Unidade",
+        "price": 1.2,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-01T22:24:30.777Z"
     },
@@ -1860,7 +1750,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtcuccp8prot",
-        "name": "Palha Aço Assolan",
+        "name": "Esponja Aço Assolan / Palha",
         "category": "Utilidades",
         "brand": "Assolan",
         "details": null,
@@ -1871,7 +1761,7 @@ export const demoProducts = [
     },
     {
         "id": "me1cg657aiu60",
-        "name": "Palha Aço Bombril",
+        "name": "Esponja Aço Bombril / Palha",
         "category": "Outros",
         "brand": "Bombril",
         "details": null,
@@ -1948,12 +1838,34 @@ export const demoProducts = [
     },
     {
         "id": "demo-127",
-        "name": "Pirulito grande",
+        "name": "Pirulito médio",
         "category": "Doces",
         "brand": null,
         "details": null,
         "measure": null,
         "price": 1.2,
+        "createdAt": "2025-06-05T03:00:00.000Z",
+        "updatedAt": null
+    },
+    {
+        "id": "demo-127",
+        "name": "Pirulito grande",
+        "category": "Doces",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 2,
+        "createdAt": "2025-06-05T03:00:00.000Z",
+        "updatedAt": null
+    },
+    {
+        "id": "demo-127",
+        "name": 'Doce "enrolito"',
+        "category": "Doces",
+        "brand": null,
+        "details": null,
+        "measure": null,
+        "price": 2,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": null
     },
@@ -1975,7 +1887,7 @@ export const demoProducts = [
         "brand": null,
         "details": null,
         "measure": null,
-        "price": 2.5,
+        "price": 3.5,
         "createdAt": "2025-08-01T23:22:12.123Z",
         "updatedAt": null
     },
@@ -2002,24 +1914,13 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
-        "id": "mdu8jya26u9kx",
-        "name": "Precificar Fraldas Médias",
-        "category": null,
-        "brand": null,
-        "details": null,
-        "measure": null,
-        "price": 0,
-        "createdAt": "2025-08-02T12:35:33.578Z",
-        "updatedAt": null
-    },
-    {
         "id": "demo-96",
         "name": "Precificar Isqueiro",
         "category": "Utilidades",
         "brand": null,
         "details": null,
         "measure": "Unidade",
-        "price": 0,
+        "price": 6.5,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-02T12:36:57.852Z"
     },
@@ -2047,6 +1948,17 @@ export const demoProducts = [
     },
     {
         "id": "mdu5dsuowgpmv",
+        "name": "Apresuntado",
+        "category": null,
+        "brand": null,
+        "details": null,
+        "measure": "Pacote",
+        "price": 8.5,
+        "createdAt": "2025-08-02T11:06:47.760Z",
+        "updatedAt": null
+    },
+    {
+        "id": "mdu5dsuowgpmv",
         "name": "Presunto KG",
         "category": null,
         "brand": null,
@@ -2057,17 +1969,6 @@ export const demoProducts = [
         "updatedAt": null
     },
     {
-        "id": "mdtehkpl2a8yc",
-        "name": "Presunto Pif-Paf",
-        "category": "Frios",
-        "brand": "Pif-Paf",
-        "details": null,
-        "measure": null,
-        "price": 8,
-        "createdAt": "2025-08-01T22:33:54.201Z",
-        "updatedAt": null
-    },
-    {
         "id": "demo-130",
         "name": "Precificar Pururuca / Pelinha (pacote transparente)",
         "category": "Salgados",
@@ -2075,6 +1976,28 @@ export const demoProducts = [
         "details": null,
         "measure": "Pacotinho",
         "price": 2.5,
+        "createdAt": "2025-06-05T03:00:00.000Z",
+        "updatedAt": "2025-08-01T21:50:56.201Z"
+    },
+    {
+        "id": "demo-130",
+        "name": "Salgado Peptisk 50g",
+        "category": "Salgados",
+        "brand": null,
+        "details": null,
+        "measure": "Pacotinho",
+        "price": 3,
+        "createdAt": "2025-06-05T03:00:00.000Z",
+        "updatedAt": "2025-08-01T21:50:56.201Z"
+    },
+    {
+        "id": "demo-130",
+        "name": "Torresmo pronto",
+        "category": "Salgados",
+        "brand": "TremBãoSó",
+        "details": null,
+        "measure": "Pacotinho",
+        "price": 5,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-01T21:50:56.201Z"
     },
@@ -2145,17 +2068,6 @@ export const demoProducts = [
         "updatedAt": "2025-08-01T23:21:24.814Z"
     },
     {
-        "id": "mdtf63y35w9s2",
-        "name": "Refri Pepsi 1L",
-        "category": "Bebidas",
-        "brand": "Pepsi",
-        "details": null,
-        "measure": "1L",
-        "price": 7,
-        "createdAt": "2025-08-01T22:52:58.875Z",
-        "updatedAt": null
-    },
-    {
         "id": "mdtf59mqzs2y9",
         "name": "Refri Sukita 1L",
         "category": "Bebidas",
@@ -2201,7 +2113,7 @@ export const demoProducts = [
     },
     {
         "id": "demo-134",
-        "name": "Sabão Pó OMO",
+        "name": "Sabão Pó OMO (caixa)",
         "category": "Limpeza e Higiene",
         "brand": "OMO",
         "details": null,
@@ -2211,22 +2123,44 @@ export const demoProducts = [
         "updatedAt": "2025-08-01T21:43:26.392Z"
     },
     {
+        "id": "demo-134",
+        "name": "Sabão Pó OMO (pacote)",
+        "category": "Limpeza e Higiene",
+        "brand": "OMO",
+        "details": null,
+        "measure": "Pacote",
+        "price": 12,
+        "createdAt": "2025-06-05T03:00:00.000Z",
+        "updatedAt": "2025-08-01T21:43:26.392Z"
+    },
+    {
         "id": "demo-135",
-        "name": "Sabão Pó Tixan",
+        "name": "Sabão Pó Tixan (pacote)",
         "category": "Limpeza e Higiene",
         "brand": "Tixan",
         "details": null,
-        "measure": "Caixa 400g",
-        "price": 12,
+        "measure": "Pacote",
+        "price": 11,
+        "createdAt": "2025-06-05T03:00:00.000Z",
+        "updatedAt": "2025-08-01T21:44:21.120Z"
+    },
+    {
+        "id": "demo-135",
+        "name": "Sabão Pó ALA (pacote)",
+        "category": "Limpeza e Higiene",
+        "brand": "ALA",
+        "details": null,
+        "measure": "Pacote",
+        "price": 8.9,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-01T21:44:21.120Z"
     },
     {
         "id": "demo-136",
-        "name": "Sabão Teiu",
+        "name": "Sabão barra Teiu",
         "category": "Limpeza e Higiene",
         "brand": "Teiu",
-        "details": null,
+        "details": "De lavar roupas",
         "measure": null,
         "price": 7.5,
         "createdAt": "2025-06-05T03:00:00.000Z",
@@ -2234,7 +2168,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtcggg5zk5fa",
-        "name": "Sabonete",
+        "name": "Sabonete Albany",
         "category": "Limpeza e Higiene",
         "brand": null,
         "details": null,
@@ -2245,10 +2179,10 @@ export const demoProducts = [
     },
     {
         "id": "me748p9ihrwlf",
-        "name": "Sabonete Leite de Rosas",
+        "name": "Sabonete Leite de Rosas (em caixa)",
         "category": null,
         "brand": null,
-        "details": null,
+        "details": "Em caixa",
         "measure": null,
         "price": 6.5,
         "createdAt": "2025-08-11T12:55:50.503Z",
@@ -2275,28 +2209,6 @@ export const demoProducts = [
         "price": 4,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": "2025-08-11T12:59:00.968Z"
-    },
-    {
-        "id": "demo-139",
-        "name": "Salgadinho Grande",
-        "category": "Salgados",
-        "brand": "Fritop",
-        "details": "Chips Batatão",
-        "measure": "50g",
-        "price": 4,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": "2025-08-01T21:27:29.014Z"
-    },
-    {
-        "id": "demo-140",
-        "name": "Salgadinho Pequeno",
-        "category": "Salgados",
-        "brand": "Gugel",
-        "details": null,
-        "measure": "45g",
-        "price": 2.5,
-        "createdAt": "2025-06-05T03:00:00.000Z",
-        "updatedAt": "2025-08-01T21:28:58.098Z"
     },
     {
         "id": "demo-129",
@@ -2355,7 +2267,7 @@ export const demoProducts = [
     },
     {
         "id": "mdu7ldaljt2ip",
-        "name": "Precificar Sazon",
+        "name": "Sazon",
         "category": "Temperos",
         "brand": null,
         "details": null,
@@ -2366,7 +2278,7 @@ export const demoProducts = [
     },
     {
         "id": "mdtfeg3pxk1ik",
-        "name": "Precificar Sonrisal",
+        "name": "Sonrisal",
         "category": "Farmácia",
         "brand": null,
         "details": null,
@@ -2410,7 +2322,7 @@ export const demoProducts = [
     },
     {
         "id": "me743goe3znyy",
-        "name": "Desodorante Tênis pé",
+        "name": "Precificar Desodorante Tênis pé",
         "category": null,
         "brand": null,
         "details": null,
@@ -2421,7 +2333,7 @@ export const demoProducts = [
     },
     {
         "id": "mdu838o8ct9c3",
-        "name": "Toalhas umedecidas",
+        "name": "Precificar Toalhas umedecidas",
         "category": null,
         "brand": null,
         "details": null,
@@ -2476,12 +2388,23 @@ export const demoProducts = [
     },
     {
         "id": "demo-108",
-        "name": "Vinagre Gota",
+        "name": "Vinagre maçã",
         "category": "Mercearia",
-        "brand": "Gota",
-        "details": null,
+        "brand": null,
+        "details": "Maçã",
         "measure": null,
-        "price": 3.5,
+        "price": 10.9,
+        "createdAt": "2025-06-05T03:00:00.000Z",
+        "updatedAt": null
+    },
+    {
+        "id": "demo-108",
+        "name": "Vinagre (álcool)",
+        "category": "Mercearia",
+        "brand": null,
+        "details": "Álcool",
+        "measure": null,
+        "price": 4.9,
         "createdAt": "2025-06-05T03:00:00.000Z",
         "updatedAt": null
     },
